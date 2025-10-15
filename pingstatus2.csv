@@ -595,3 +595,4 @@ timestamp,host,iphost,status,sts,fping,cputem,memuse,menper,ipext,isprv,uptime
 2025-10-15T20:44:03Z,raspdeb12speedcsv,192.168.8.10,1,online,3.64,41.8,0.39,12.4,138.97.240.197,3TEL,1 day
 2025-10-15T20:46:04Z,raspdeb12speedcsv,192.168.8.10,1,online,3.62,42.8,0.4,12.7,138.97.240.197,3TEL,1 day
 2025-10-15T20:48:03Z,raspdeb12speedcsv,192.168.8.10,1,online,3.93,41.3,0.4,12.8,138.97.240.197,3TEL,1 day
+2025-10-15T20:50:04Z,raspdeb12speedcsv,192.168.8.10,1,online,3.57,41.3,0.42,13.4,138.97.240.197,3TEL,1 day
