@@ -6,3 +6,7 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-15T14:03:16Z,eth0,192.168.50.52,177.170.163.254,27078,Mega Net Telecom Ltda - Diadema,2.75,0.38,248.87,73786976294838.2,Vivo
 2025-10-15T14:06:00Z,eth0,192.168.50.52,177.170.163.254,47219,CTI - Diadema,2.8,0.41,1713.49,317.11,Sem Fone Telecomunicacoes Ltda
 
+2025-10-15T14:08:47Z,eth0,192.168.50.52,177.170.163.254,31133,FORÇA E AÇÃO TELECOM - Diadema,2.85,0.88,905.2,363.94,Vivo
+
+2025-10-15T14:09:42Z,eth0,192.168.50.52,177.170.163.254,47219,CTI - Diadema,4.06,0.61,2533.8,191.33,Vivo
+
