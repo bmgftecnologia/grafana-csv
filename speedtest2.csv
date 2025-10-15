@@ -1,3 +1,4 @@
 timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,download_mbps,upload_mbps,result_url
 2025-10-15T13:36:27Z,eth0,192.168.50.52,177.170.163.254,47219,CTI - Diadema,4.03,1.57,688.79,307.95,Sem Fone Telecomunicacoes Ltda
 2025-10-15T13:41:49Z,eth0,192.168.50.52,177.170.163.254,31133,FORÇA E AÇÃO TELECOM - Diadema,2.83,0.07,703.01,303.78,Sem Fone Telecomunicacoes Ltda
+2025-10-15T13:50:16Z,eth0,192.168.50.52,177.170.163.254,47219,CTI - Diadema,2.87,0.46,693.42,200.22,Vivo
