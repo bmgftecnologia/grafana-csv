@@ -31,3 +31,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-15T17:16:19Z,eth1,192.168.8.10,177.170.163.254,47219,CTI - Diadema,2.18,0.33,2012.52,332.49,Vivo
 2025-10-15T17:34:03Z,eth1,192.168.8.10,177.170.163.254,31133,FORÇA E AÇÃO TELECOM - Diadema,2.76,0.21,1743.27,276.97,Vivo
 2025-10-15T17:37:23Z,eth1,192.168.8.10,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,2.88,0.48,1869.29,270.28,Vivo
+2025-10-15T17:43:06Z,eth1,192.168.8.10,138.97.240.197,47219,CTI - Diadema,3.46,0.58,680.66,588.05,Provider name not found
