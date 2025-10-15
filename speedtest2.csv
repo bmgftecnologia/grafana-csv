@@ -15,3 +15,5 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 
 2025-10-15T14:31:58Z,eth0,192.168.50.52,177.170.163.254,31133,FORÇA E AÇÃO TELECOM - Diadema,2.79,0.31,984.15,212.74,Vivo
 
+2025-10-15T14:32:47Z,eth0,192.168.50.52,177.170.163.254,47219,CTI - Diadema,3.03,1.1,1959.19,310.42,Vivo
+
