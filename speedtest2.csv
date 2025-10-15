@@ -1,0 +1,2 @@
+timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,download_mbps,upload_mbps,result_url
+2025-10-15T13:36:27Z,eth0,192.168.50.52,177.170.163.254,47219,CTI - Diadema,4.03,1.57,688.79,307.95,Sem Fone Telecomunicacoes Ltda
