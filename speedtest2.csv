@@ -17,3 +17,5 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 
 2025-10-15T14:32:47Z,eth0,192.168.50.52,177.170.163.254,47219,CTI - Diadema,3.03,1.1,1959.19,310.42,Vivo
 
+2025-10-15T14:34:51Z,eth0,192.168.50.52,177.170.163.254,47219,CTI - Diadema,4.07,0.92,1155.64,252.39,Vivo
+
