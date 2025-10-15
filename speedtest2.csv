@@ -37,3 +37,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-15T18:12:03Z,eth1,192.168.8.10,138.97.240.197,47219,CTI - Diadema,2.67,0.41,545.05,394.3,3TEL
 2025-10-15T18:12:43Z,eth1,192.168.8.10,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,2.82,0.2,259.56,0.0,3TEL
 2025-10-15T18:13:06Z,eth1,192.168.8.10,138.97.240.197,None,None,None,None,None,None,3TEL
+2025-10-15T18:45:10Z,eth1,192.168.8.10,138.97.240.197,None,None,None,None,None,None,3TEL
