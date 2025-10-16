@@ -59,3 +59,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-16T01:29:02Z,eth1,192.168.8.10,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.01,0.35,695.76,298.6,3TEL
 2025-10-16T01:35:33Z,eth1,192.168.8.10,138.97.240.197,47219,CTI - Diadema,2.95,0.22,341.26,195.6,3TEL
 2025-10-16T01:42:30Z,eth1,192.168.8.10,138.97.240.197,None,None,0.0,0.0,0.0,0.0,3TEL
+2025-10-16T01:49:29Z,eth1,192.168.8.10,138.97.240.197,None,None,0.0,0.0,0.0,0.0,3TEL
