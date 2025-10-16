@@ -1238,3 +1238,4 @@ timestamp,host,iphost,status,sts,fping,cputem,memuse,menper,ipext,isprv,uptime
 2025-10-16T20:14:12Z,raspdeb12speedcsv,192.168.8.10,1,online,4.04,44.3,0.42,13.3,138.97.240.197,3TEL,9:13
 2025-10-16T20:16:03Z,raspdeb12speedcsv,192.168.8.10,1,online,4.07,45.2,0.45,14.0,138.97.240.197,3TEL,9:15
 2025-10-16T20:18:04Z,raspdeb12speedcsv,192.168.8.10,1,online,10.6,44.3,0.37,11.9,138.97.240.197,3TEL,9:17
+2025-10-16T20:20:03Z,raspdeb12speedcsv,192.168.8.10,1,online,3.82,45.7,0.38,12.3,138.97.240.197,3TEL,9:19
