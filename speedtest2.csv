@@ -107,3 +107,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-16T06:49:29Z,eth1,192.168.8.10,138.97.240.197,None,None,0.0,0.0,0.0,0.0,3TEL
 2025-10-16T06:56:31Z,eth1,192.168.8.10,138.97.240.197,None,None,0.0,0.0,0.0,0.0,3TEL
 2025-10-16T07:00:31Z,eth1,192.168.8.10,138.97.240.197,None,None,0.0,0.0,0.0,0.0,3TEL
+2025-10-16T07:07:58Z,eth1,192.168.8.10,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,2.78,0.59,692.22,304.06,3TEL
