@@ -46,3 +46,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-16T00:00:30Z,eth1,192.168.8.10,138.97.240.197,None,None,None,None,None,None,3TEL
 2025-10-16T00:07:36Z,eth1,192.168.8.10,138.97.240.197,None,None,None,None,None,None,3TEL
 2025-10-16T00:15:06Z,eth1,192.168.8.10,138.97.240.197,21107,CLICK & NAVEGUE - Diadema,2.93,0.69,686.94,297.19,3TEL
+2025-10-16T00:21:29Z,eth1,192.168.8.10,138.97.240.197,None,None,None,None,None,None,3TEL
