@@ -48,3 +48,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-16T00:15:06Z,eth1,192.168.8.10,138.97.240.197,21107,CLICK & NAVEGUE - Diadema,2.93,0.69,686.94,297.19,3TEL
 2025-10-16T00:21:29Z,eth1,192.168.8.10,138.97.240.197,None,None,None,None,None,None,3TEL
 2025-10-16T00:28:58Z,eth1,192.168.8.10,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,2.87,0.7,687.53,300.66,3TEL
+2025-10-16T00:35:30Z,eth1,192.168.8.10,138.97.240.197,None,None,None,None,None,None,3TEL
