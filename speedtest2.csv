@@ -269,3 +269,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-17T00:15:22Z,eth1,192.168.8.10,138.97.240.197,62495,Velosch Telecom - Diadema,2.85,0.23,854.51,302.3,3TEL
 2025-10-17T00:30:34Z,eth1,192.168.8.10,138.97.240.197,47219,CTI - Diadema,2.45,0.42,369.12,141.34,3TEL
 2025-10-17T00:35:32Z,eth1,192.168.8.10,138.97.240.197,47219,CTI - Diadema,2.52,0.73,709.17,349.26,3TEL
+2025-10-17T00:55:59Z,eth1,192.168.8.10,138.97.240.197,62495,Velosch Telecom - Diadema,4.02,0.53,691.76,304.61,3TEL
