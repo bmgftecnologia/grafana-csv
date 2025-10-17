@@ -296,3 +296,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-17T05:25:29Z,eth1,192.168.8.10,138.97.240.197,47219,CTI - Diadema,2.74,0.27,688.67,340.1,3TEL
 2025-10-17T05:31:01Z,eth1,192.168.8.10,138.97.240.197,63107,Global Web Telecom - Diadema,2.78,0.17,520.68,216.31,3TEL
 2025-10-17T05:35:29Z,eth1,192.168.8.10,138.97.240.197,63107,Global Web Telecom - Diadema,2.98,0.6,690.14,303.95,3TEL
+2025-10-17T05:45:59Z,eth1,192.168.8.10,138.97.240.197,63107,Global Web Telecom - Diadema,3.25,0.58,689.49,303.82,3TEL
