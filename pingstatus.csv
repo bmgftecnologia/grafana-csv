@@ -4011,3 +4011,4 @@ timestamp,host,iphost,status,sts,fping,cputem,memuse,menper,ipext,isprv,uptime
 2025-10-17T00:56:03Z,raspdeb12speedcsv,192.168.50.52,1,online,3.49,44.3,0.36,11.8,177.170.163.254,Vivo,13:55
 2025-10-17T01:00:03Z,raspdeb12speedcsv,192.168.50.52,1,online,5.22,45.7,0.41,13.1,177.170.163.254,Vivo,13:59
 2025-10-17T01:02:04Z,raspdeb12speedcsv,192.168.50.52,1,online,4.03,44.3,0.4,12.7,177.170.163.254,Vivo,14:01
+2025-10-17T01:04:03Z,raspdeb12speedcsv,192.168.50.52,1,online,4.24,45.2,0.42,13.3,177.170.163.254,Vivo,14:03
