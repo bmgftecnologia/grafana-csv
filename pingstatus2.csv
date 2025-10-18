@@ -1970,3 +1970,4 @@ timestamp,host,iphost,status,sts,fping,cputem,memuse,menper,ipext,isprv,uptime
 2025-10-18T04:00:06Z,raspdeb12speedcsv,192.168.8.11,1,online,4.48,48.2,0.35,11.2,138.97.240.197,3TEL,18 min
 2025-10-18T04:02:09Z,raspdeb12speedcsv,192.168.8.11,1,online,3.48,45.2,0.31,10.3,138.97.240.197,3TEL,20 min
 2025-10-18T04:04:09Z,raspdeb12speedcsv,192.168.8.11,1,online,3.50,45.2,0.32,10.6,138.97.240.197,3TEL,22 min
+2025-10-18T04:06:03Z,raspdeb12speedcsv,192.168.8.11,1,online,3.42,46.2,0.37,11.9,138.97.240.197,3TEL,24 min
