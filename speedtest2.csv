@@ -448,3 +448,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-18T14:42:24Z,eth0,192.168.8.11,138.97.240.197,47219,CTI - Diadema,3.14,0.81,735.27,329.98,3TEL
 2025-10-18T14:54:52Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,2.81,0.03,616.74,304.09,3TEL
 2025-10-18T15:00:33Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,2.83,0.19,516.55,142.64,3TEL
+2025-10-18T15:06:51Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,2.82,0.09,803.68,303.53,3TEL
