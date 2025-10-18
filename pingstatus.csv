@@ -4328,3 +4328,4 @@ timestamp,host,iphost,status,sts,fping,cputem,memuse,menper,ipext,isprv,uptime
 2025-10-18T01:54:04Z,raspdeb12speedcsv,192.168.50.207,1,online,4.17,47.2,0.44,13.9,177.170.163.254,Vivo,4:47
 2025-10-18T01:56:03Z,raspdeb12speedcsv,192.168.50.207,1,online,4.03,45.7,0.42,13.4,177.170.163.254,Vivo,4:49
 2025-10-18T02:04:03Z,raspdeb12speedcsv,192.168.50.207,1,online,4.57,45.2,0.38,12.3,177.170.163.254,Vivo,4:57
+2025-10-18T02:08:03Z,raspdeb12speedcsv,192.168.50.207,1,online,3.99,46.7,0.41,12.9,177.170.163.254,Vivo,5:01
