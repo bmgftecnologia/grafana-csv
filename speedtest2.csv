@@ -663,3 +663,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-20T09:25:01Z,eth0,192.168.8.11,138.97.240.197,47219,CTI - Diadema,2.61,0.37,701.36,346.29,3TEL
 2025-10-20T09:31:00Z,eth0,192.168.8.11,138.97.240.197,44965,Interativa Internet Telecom - São Paulo,14.9,2.98,503.89,178.04,3TEL
 2025-10-20T09:36:24Z,eth0,192.168.8.11,138.97.240.197,47219,CTI - Diadema,2.57,0.18,759.62,309.97,3TEL
+2025-10-20T09:42:54Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,2.66,0.15,661.71,304.19,3TEL
