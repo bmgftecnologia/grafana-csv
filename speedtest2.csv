@@ -660,3 +660,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-20T08:54:29Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,2.67,0.18,706.39,303.64,3TEL
 2025-10-20T09:01:03Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,2.71,0.11,298.88,205.39,3TEL
 2025-10-20T09:12:26Z,eth0,192.168.8.11,138.97.240.197,47219,CTI - Diadema,2.88,0.4,722.02,304.53,3TEL
+2025-10-20T09:25:01Z,eth0,192.168.8.11,138.97.240.197,47219,CTI - Diadema,2.61,0.37,701.36,346.29,3TEL
