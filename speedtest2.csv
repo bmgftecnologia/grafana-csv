@@ -683,3 +683,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-20T13:36:24Z,eth0,192.168.8.11,138.97.240.197,21107,CLICK & NAVEGUE - Diadema,2.87,0.23,647.77,303.77,3TEL
 2025-10-20T13:48:25Z,eth0,192.168.8.11,138.97.240.197,47219,CTI - Diadema,3.1,0.67,749.04,349.28,3TEL
 2025-10-20T13:54:59Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,2.74,0.23,697.51,302.75,3TEL
+2025-10-20T14:18:30Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,2.83,0.12,688.37,302.72,3TEL
