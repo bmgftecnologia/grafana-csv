@@ -749,3 +749,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-21T05:24:32Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,2.72,0.14,703.33,303.84,3TEL
 2025-10-21T05:42:59Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,2.74,0.21,772.58,303.06,3TEL
 2025-10-21T05:48:54Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,4.17,0.7,487.04,302.76,3TEL
+2025-10-21T05:54:51Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,2.75,1.62,803.41,302.77,3TEL
