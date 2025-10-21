@@ -744,3 +744,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-21T04:30:26Z,eth0,192.168.8.11,138.97.240.197,47219,CTI - Diadema,4.15,1.32,573.88,175.4,3TEL
 2025-10-21T04:48:22Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,3.36,1.19,781.15,303.33,3TEL
 2025-10-21T04:55:00Z,eth0,192.168.8.11,138.97.240.197,47219,CTI - Diadema,2.84,0.56,710.38,303.61,3TEL
+2025-10-21T05:06:34Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,2.82,0.38,705.47,302.31,3TEL
