@@ -955,3 +955,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-22T09:10:19Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,3.7,0.16,599.58,678.85,3TEL
 2025-10-22T09:15:22Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,3.72,0.06,559.95,633.26,3TEL
 2025-10-22T09:20:23Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,3.92,0.2,765.65,700.38,3TEL
+2025-10-22T09:25:22Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,3.9,0.17,612.32,698.9,3TEL
