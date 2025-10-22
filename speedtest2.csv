@@ -960,3 +960,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-22T09:35:20Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,4.0,0.11,854.73,697.48,3TEL
 2025-10-22T09:40:18Z,eth0,192.168.8.11,138.97.240.197,21107,CLICK & NAVEGUE - Diadema,4.35,0.81,594.08,703.5,3TEL
 2025-10-22T09:45:13Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.47,0.22,590.97,701.66,3TEL
+2025-10-22T09:50:31Z,eth0,192.168.8.11,138.97.240.197,39792,SpedyNet - Diadema,3.92,0.13,570.79,699.84,3TEL
