@@ -4818,3 +4818,4 @@ timestamp,host,iphost,status,sts,fping,cputem,memuse,menper,ipext,isprv,uptime
 2025-10-22T10:42:04Z,raspdeb12speedcsv,192.168.8.11,1,online,6.17,44.3,0.48,15.0,138.97.240.197,3TEL,20:14
 2025-10-22T10:44:03Z,raspdeb12speedcsv,192.168.8.11,1,online,3.42,41.3,0.47,14.6,138.97.240.197,3TEL,20:16
 2025-10-22T10:46:03Z,raspdeb12speedcsv,192.168.8.11,1,online,4.61,42.8,0.37,12.0,138.97.240.197,3TEL,20:18
+2025-10-22T10:48:03Z,raspdeb12speedcsv,192.168.8.11,1,online,4.27,42.3,0.4,12.8,138.97.240.197,3TEL,20:20
