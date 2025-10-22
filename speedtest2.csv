@@ -938,3 +938,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-22T07:45:34Z,eth0,192.168.8.11,138.97.240.197,47219,CTI - Diadema,4.07,0.89,611.56,560.79,3TEL
 2025-10-22T07:50:23Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.58,0.14,648.1,690.18,3TEL
 2025-10-22T07:55:20Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.65,0.33,575.17,681.18,3TEL
+2025-10-22T08:00:54Z,eth0,192.168.8.11,138.97.240.197,44965,Interativa Internet Telecom - São Paulo,4.86,0.3,428.34,681.58,3TEL
