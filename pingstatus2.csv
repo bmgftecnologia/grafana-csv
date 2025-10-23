@@ -5713,3 +5713,5 @@ timestamp,host,iphost,status,sts,fping,cputem,memuse,menper,ipext,isprv,uptime
 2025-10-23T16:10:03Z,raspdeb12speedcsv,192.168.8.11,1,online,3.31,42.3,0.48,15.0,138.97.240.197,3TEL,2 days
 2025-10-23T16:12:06Z,raspdeb12speedcsv,192.168.8.11,1,online,8.51,43.3,0.47,14.8,138.97.240.197,3TEL,2 days
 2025-10-23T16:14:03Z,raspdeb12speedcsv,192.168.8.11,1,online,3.87,40.9,0.47,14.6,138.97.240.197,3TEL,2 days
+2025-10-23T17:55:24Z,raspdeb12speedcsv,192.168.8.11,1,online,3.64,43.3,0.36,11.8,138.97.240.197,Provider name not found,2 days
+2025-10-23T17:55:42Z,raspdeb12speedcsv,192.168.8.11,1,online,3.58,41.8,0.37,12.1,138.97.240.197,Provider name not found,2 days
