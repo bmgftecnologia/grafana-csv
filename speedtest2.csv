@@ -303,3 +303,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-23T13:55:15Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,3.8,0.16,680.56,673.59,3TEL
 2025-10-23T14:00:33Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.76,0.32,438.73,404.28,3TEL
 2025-10-23T14:05:18Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.46,0.1,659.18,681.87,3TEL
+2025-10-23T14:10:23Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,4.09,7.32,586.35,631.46,3TEL
