@@ -404,3 +404,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-23T22:25:15Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,3.78,0.04,649.85,659.95,3TEL
 2025-10-23T22:30:30Z,eth0,192.168.8.11,138.97.240.197,21107,CLICK & NAVEGUE - Diadema,6.07,2.67,423.62,640.54,3TEL
 2025-10-23T22:35:20Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.55,0.08,629.32,670.62,3TEL
+2025-10-23T22:40:16Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.49,0.14,569.24,675.24,3TEL
