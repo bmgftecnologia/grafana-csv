@@ -303,3 +303,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-23T16:30:19Z,eth1,192.168.50.52,187.56.139.30,36386,TIM Brasil - São Paulo,4.14,0.28,646.56,194.23,Vivo
 2025-10-23T16:36:31Z,eth1,192.168.50.52,187.56.139.30,28443,Algar Telecom - São Paulo,3.44,0.28,710.31,303.45,Vivo
 2025-10-23T16:42:29Z,eth1,192.168.50.52,187.56.139.30,40465,Vtal - São Paulo,2.72,0.19,690.84,337.07,Vivo
+2025-10-23T16:48:29Z,eth1,192.168.50.52,187.56.139.30,40465,Vtal - São Paulo,2.8,0.42,691.82,306.78,Vivo
