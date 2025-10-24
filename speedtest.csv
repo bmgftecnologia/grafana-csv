@@ -465,3 +465,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-24T08:54:22Z,eth1,192.168.50.52,187.56.139.30,30306,Grupo GTD - São Paulo,2.66,0.11,861.14,303.41,Vivo
 2025-10-24T09:00:35Z,eth1,192.168.50.52,187.56.139.30,30306,Grupo GTD - São Paulo,2.69,0.3,637.76,340.29,Vivo
 2025-10-24T09:06:29Z,eth1,192.168.50.52,187.56.139.30,30306,Grupo GTD - São Paulo,2.63,1.49,694.69,305.36,Vivo
+2025-10-24T09:12:30Z,eth1,192.168.50.52,187.56.139.30,36386,TIM Brasil - São Paulo,2.64,0.12,701.01,312.14,Vivo
