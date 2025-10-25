@@ -639,3 +639,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-25T02:18:21Z,eth1,192.168.50.52,187.56.139.30,30306,Grupo GTD - São Paulo,2.84,0.36,859.56,311.43,Vivo
 2025-10-25T02:24:28Z,eth1,192.168.50.52,187.56.139.30,30306,Grupo GTD - São Paulo,2.36,0.08,692.59,302.97,Vivo
 2025-10-25T02:30:35Z,eth1,192.168.50.52,187.56.139.30,30306,Grupo GTD - São Paulo,2.9,0.29,503.59,208.58,Vivo
+2025-10-25T02:36:28Z,eth1,192.168.50.52,187.56.139.30,30306,Grupo GTD - São Paulo,2.81,0.78,687.58,308.08,Vivo
