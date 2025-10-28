@@ -1828,3 +1828,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-28T21:40:16Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.6,0.26,529.35,658.6,3TEL
 2025-10-28T21:45:28Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,4.29,0.43,626.72,689.4,3TEL
 2025-10-28T21:50:19Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,4.12,0.4,901.0,687.66,3TEL
+2025-10-28T21:55:21Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,3.75,0.07,790.61,686.43,3TEL
