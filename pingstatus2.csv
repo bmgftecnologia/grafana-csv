@@ -9085,3 +9085,4 @@ timestamp,host,iphost,status,sts,fping,cputem,memuse,menper,ipext,isprv,uptime
 2025-10-28T13:34:03Z,raspdeb12speedcsv,192.168.8.11,1,online,3.54,46.2,0.37,11.9,138.97.240.197,3TEL,21:20
 2025-10-28T13:36:03Z,raspdeb12speedcsv,192.168.8.11,1,online,3.63,47.7,0.39,12.7,138.97.240.197,3TEL,21:22
 2025-10-28T13:38:04Z,raspdeb12speedcsv,192.168.8.11,1,online,3.62,46.2,0.39,12.6,138.97.240.197,3TEL,21:24
+2025-10-28T13:40:03Z,raspdeb12speedcsv,192.168.8.11,1,online,3.77,47.7,0.41,13.2,138.97.240.197,3TEL,21:26
