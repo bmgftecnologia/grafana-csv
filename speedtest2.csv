@@ -1798,3 +1798,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-28T19:10:21Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,3.74,0.24,674.31,661.65,3TEL
 2025-10-28T19:15:23Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.59,0.13,653.54,668.44,3TEL
 2025-10-28T19:20:19Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,4.23,1.31,690.15,670.82,3TEL
+2025-10-28T19:25:24Z,eth0,192.168.8.11,138.97.240.197,47219,CTI - Diadema,4.47,0.43,586.4,589.29,3TEL
