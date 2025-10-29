@@ -9858,3 +9858,4 @@ timestamp,host,iphost,status,sts,fping,cputem,memuse,menper,ipext,isprv,uptime
 2025-10-29T15:24:03Z,raspdeb12speedcsv,192.168.8.11,1,online,3.44,49.1,0.45,14.0,138.97.240.197,3TEL,1 day
 2025-10-29T15:26:03Z,raspdeb12speedcsv,192.168.8.11,1,online,3.45,48.7,0.4,12.8,138.97.240.197,3TEL,1 day
 2025-10-29T15:28:03Z,raspdeb12speedcsv,192.168.8.11,1,online,3.67,46.2,0.37,12.1,138.97.240.197,3TEL,1 day
+2025-10-29T15:30:04Z,raspdeb12speedcsv,192.168.8.11,1,online,3.36,48.2,0.4,12.9,138.97.240.197,3TEL,1 day
