@@ -1930,3 +1930,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-29T06:15:15Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,3.79,0.1,639.31,699.64,3TEL
 2025-10-29T06:20:25Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.45,0.17,675.37,685.72,3TEL
 2025-10-29T06:25:25Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,4.0,0.11,613.25,681.26,3TEL
+2025-10-29T06:30:20Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.63,0.76,464.82,674.23,3TEL
