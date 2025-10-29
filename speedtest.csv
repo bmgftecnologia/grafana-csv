@@ -1806,3 +1806,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-29T23:36:23Z,eth1,192.168.50.52,189.78.125.232,29666,EdgeUno - São Paulo,2.82,0.52,798.58,295.35,Vivo
 2025-10-29T23:42:28Z,eth1,192.168.50.52,189.78.125.232,36386,TIM Brasil - São Paulo,3.17,0.53,660.89,315.47,Vivo
 2025-10-29T23:48:30Z,eth1,192.168.50.52,189.78.125.232,29666,EdgeUno - São Paulo,2.84,0.28,690.07,297.95,Vivo
+2025-10-29T23:54:28Z,eth1,192.168.50.52,189.78.125.232,40465,Vtal - São Paulo,3.81,0.66,687.6,293.03,Vivo
