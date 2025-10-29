@@ -1801,3 +1801,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-29T23:00:33Z,eth1,192.168.50.52,189.78.125.232,39244,ENX - São Paulo,4.27,1.17,433.57,179.33,Vivo
 2025-10-29T23:06:28Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.76,0.23,692.37,316.81,Vivo
 2025-10-29T23:12:29Z,eth1,192.168.50.52,189.78.125.232,29666,EdgeUno - São Paulo,2.79,0.33,687.6,303.0,Vivo
+2025-10-29T23:18:30Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.53,1.0,688.31,298.77,Vivo
