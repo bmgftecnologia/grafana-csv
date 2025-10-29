@@ -2074,3 +2074,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-29T18:15:37Z,eth0,192.168.8.11,138.97.240.197,21107,CLICK & NAVEGUE - Diadema,14.81,0.87,224.9,369.98,3TEL
 2025-10-29T18:20:23Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.44,0.1,629.26,700.19,3TEL
 2025-10-29T18:25:23Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,4.15,0.31,648.73,698.15,3TEL
+2025-10-29T18:30:23Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,3.78,0.1,376.27,676.09,3TEL
