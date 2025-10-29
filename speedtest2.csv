@@ -1942,3 +1942,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-29T07:15:18Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.48,0.09,651.47,697.24,3TEL
 2025-10-29T07:20:25Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.49,0.17,664.03,704.98,3TEL
 2025-10-29T07:25:18Z,eth0,192.168.8.11,138.97.240.197,39792,SpedyNet - Diadema,3.8,105.05,635.71,678.72,3TEL
+2025-10-29T07:30:29Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.68,0.3,515.46,671.99,3TEL
