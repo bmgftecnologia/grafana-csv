@@ -11092,3 +11092,4 @@ timestamp,host,iphost,status,sts,fping,cputem,memuse,menper,ipext,isprv,uptime
 2025-10-29T09:48:03Z,raspdeb12speedcsv,192.168.50.52,1,online,4.16,47.7,0.42,13.3,189.78.125.232,Vivo,1 day
 2025-10-29T09:50:05Z,raspdeb12speedcsv,192.168.50.52,1,online,5.28,46.7,0.41,13.1,189.78.125.232,Vivo,1 day
 2025-10-29T09:52:03Z,raspdeb12speedcsv,192.168.50.52,1,online,4.73,46.2,0.45,14.1,189.78.125.232,Vivo,1 day
+2025-10-29T09:54:03Z,raspdeb12speedcsv,192.168.50.52,1,online,5.09,48.2,0.47,14.8,189.78.125.232,Vivo,1 day
