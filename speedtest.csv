@@ -1940,3 +1940,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-30T13:00:31Z,eth1,192.168.50.52,189.78.125.232,64559,I-Systems - São Paulo,3.71,0.99,200.24,239.8,Vivo
 2025-10-30T13:06:27Z,eth1,192.168.50.52,189.78.125.232,64559,I-Systems - São Paulo,3.17,0.74,273.02,303.75,Vivo
 2025-10-30T13:12:24Z,eth1,192.168.50.52,189.78.125.232,62830,Mundivox Telecom Ltda - São Paulo,3.95,0.72,844.54,303.81,Vivo
+2025-10-30T13:18:27Z,eth1,192.168.50.52,189.78.125.232,64559,I-Systems - São Paulo,2.75,0.24,368.44,303.47,Vivo
