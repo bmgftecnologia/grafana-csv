@@ -2281,3 +2281,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-30T11:45:19Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.52,0.06,638.02,665.99,3TEL
 2025-10-30T11:50:23Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,3.72,0.12,623.74,669.69,3TEL
 2025-10-30T11:55:23Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.47,0.13,643.93,667.62,3TEL
+2025-10-30T12:00:29Z,eth0,192.168.8.11,138.97.240.197,43094,Nossanet Fibra - São Paulo,4.54,0.88,366.76,639.4,3TEL
