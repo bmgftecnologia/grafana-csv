@@ -1855,3 +1855,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-30T04:30:23Z,eth1,192.168.50.52,189.78.125.232,36386,TIM Brasil - São Paulo,2.85,0.56,676.85,152.22,Vivo
 2025-10-30T04:36:29Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.79,0.36,687.54,305.11,Vivo
 2025-10-30T04:42:28Z,eth1,192.168.50.52,189.78.125.232,28443,Algar Telecom - São Paulo,2.78,0.35,683.63,302.54,Vivo
+2025-10-30T04:48:28Z,eth1,192.168.50.52,189.78.125.232,64559,I-Systems - São Paulo,2.79,0.13,246.11,300.72,Vivo
