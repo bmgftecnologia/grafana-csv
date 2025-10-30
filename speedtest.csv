@@ -1812,3 +1812,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-30T00:12:28Z,eth1,192.168.50.52,189.78.125.232,29666,EdgeUno - São Paulo,3.34,0.77,689.34,299.73,Vivo
 2025-10-30T00:18:28Z,eth1,192.168.50.52,189.78.125.232,29666,EdgeUno - São Paulo,2.84,0.24,689.56,301.25,Vivo
 2025-10-30T00:24:23Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.78,0.67,852.21,303.9,Vivo
+2025-10-30T00:30:34Z,eth1,192.168.50.52,189.78.125.232,62830,Mundivox Telecom Ltda - São Paulo,3.6,1.01,677.37,194.72,Vivo
