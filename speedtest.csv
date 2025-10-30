@@ -1916,3 +1916,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-30T10:36:29Z,eth1,192.168.50.52,189.78.125.232,64559,I-Systems - São Paulo,3.1,0.12,182.32,305.85,Vivo
 2025-10-30T10:42:29Z,eth1,192.168.50.52,189.78.125.232,36386,TIM Brasil - São Paulo,3.22,0.47,691.34,327.22,Vivo
 2025-10-30T10:48:29Z,eth1,192.168.50.52,189.78.125.232,16322,Claro Net Vírtua - SPO - São Paulo,3.69,0.87,696.76,306.33,Vivo
+2025-10-30T10:54:30Z,eth1,192.168.50.52,189.78.125.232,29666,EdgeUno - São Paulo,2.88,0.48,686.39,309.81,Vivo
