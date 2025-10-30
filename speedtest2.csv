@@ -2205,3 +2205,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-30T05:20:24Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.92,0.06,638.01,699.7,3TEL
 2025-10-30T05:25:14Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.56,0.18,641.55,699.72,3TEL
 2025-10-30T05:30:29Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.49,0.07,600.69,636.5,3TEL
+2025-10-30T05:35:14Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.48,0.05,656.0,701.32,3TEL
