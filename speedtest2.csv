@@ -2198,3 +2198,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-30T04:45:14Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.51,0.04,657.83,697.36,3TEL
 2025-10-30T04:50:18Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.57,0.15,626.69,701.09,3TEL
 2025-10-30T04:55:20Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,3.81,0.11,618.38,700.7,3TEL
+2025-10-30T05:00:37Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,4.59,4.28,280.62,546.57,3TEL
