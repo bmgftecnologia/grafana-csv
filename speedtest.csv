@@ -1875,3 +1875,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-30T06:30:29Z,eth1,192.168.50.52,189.78.125.232,29666,EdgeUno - São Paulo,2.97,0.46,716.01,216.95,Vivo
 2025-10-30T06:36:28Z,eth1,192.168.50.52,189.78.125.232,64559,I-Systems - São Paulo,2.78,0.5,271.72,303.72,Vivo
 2025-10-30T06:42:28Z,eth1,192.168.50.52,189.78.125.232,40465,Vtal - São Paulo,2.74,0.24,677.14,311.6,Vivo
+2025-10-30T06:48:29Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.71,0.43,686.18,306.32,Vivo
