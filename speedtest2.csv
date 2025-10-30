@@ -2221,3 +2221,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-30T06:45:16Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.59,0.24,625.35,687.32,3TEL
 2025-10-30T06:50:27Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,3.87,0.34,584.29,677.53,3TEL
 2025-10-30T06:55:13Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.48,0.06,654.26,689.04,3TEL
+2025-10-30T07:00:29Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,12.25,0.49,471.82,698.48,3TEL
