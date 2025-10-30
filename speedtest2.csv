@@ -2218,3 +2218,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-30T06:30:28Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.76,0.4,330.68,698.46,3TEL
 2025-10-30T06:35:25Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,4.03,0.37,682.98,699.43,3TEL
 2025-10-30T06:40:23Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,3.9,0.61,603.86,702.63,3TEL
+2025-10-30T06:45:16Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.59,0.24,625.35,687.32,3TEL
