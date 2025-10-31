@@ -2259,3 +2259,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-31T21:54:28Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.82,0.28,685.04,302.37,Vivo
 2025-10-31T22:00:34Z,eth1,192.168.50.52,189.78.125.232,36386,TIM Brasil - São Paulo,3.98,0.38,591.73,340.96,Vivo
 2025-10-31T22:06:28Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.02,0.85,688.37,299.58,Vivo
+2025-10-31T22:12:28Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.14,0.54,685.2,304.3,Vivo
