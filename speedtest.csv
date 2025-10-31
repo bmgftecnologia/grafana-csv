@@ -2090,3 +2090,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-31T04:30:33Z,eth1,192.168.50.52,189.78.125.232,65079,SenGi Internet - São Vicente,33.58,0.32,118.24,46.75,Vivo
 2025-10-31T04:36:29Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.53,0.62,691.09,311.54,Vivo
 2025-10-31T04:42:29Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.2,0.52,689.41,303.53,Vivo
+2025-10-31T04:48:29Z,eth1,192.168.50.52,189.78.125.232,40465,Vtal - São Paulo,3.56,0.98,687.91,303.48,Vivo
