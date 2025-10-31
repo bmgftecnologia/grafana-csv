@@ -2088,3 +2088,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-10-31T04:18:30Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.22,0.54,687.26,307.59,Vivo
 2025-10-31T04:24:29Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.31,1.41,696.42,301.6,Vivo
 2025-10-31T04:30:33Z,eth1,192.168.50.52,189.78.125.232,65079,SenGi Internet - São Vicente,33.58,0.32,118.24,46.75,Vivo
+2025-10-31T04:36:29Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.53,0.62,691.09,311.54,Vivo
