@@ -2756,3 +2756,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-01T04:25:13Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.74,0.12,557.2,695.66,3TEL
 2025-11-01T04:30:27Z,eth0,192.168.8.11,138.97.240.197,44965,Interativa Internet Telecom - São Paulo,12.84,0.84,422.08,668.9,3TEL
 2025-11-01T04:35:16Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,3.91,0.33,697.96,684.97,3TEL
+2025-11-01T04:40:17Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.93,0.1,605.39,667.31,3TEL
