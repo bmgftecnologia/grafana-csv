@@ -2508,3 +2508,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-01T22:42:33Z,eth1,192.168.50.52,189.78.125.232,28443,Algar Telecom - São Paulo,2.78,0.15,702.85,302.07,Vivo
 2025-11-01T22:48:28Z,eth1,192.168.50.52,189.78.125.232,28443,Algar Telecom - São Paulo,3.69,0.8,679.6,312.38,Vivo
 2025-11-01T22:54:28Z,eth1,192.168.50.52,189.78.125.232,40465,Vtal - São Paulo,3.28,1.11,691.33,301.69,Vivo
+2025-11-01T23:00:33Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.77,0.18,515.82,343.72,Vivo
