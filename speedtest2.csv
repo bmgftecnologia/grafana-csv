@@ -2928,3 +2928,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-01T18:55:24Z,eth0,192.168.8.11,138.97.240.197,39792,SpedyNet - Diadema,3.8,0.29,498.38,698.56,3TEL
 2025-11-01T19:00:35Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,4.0,1.15,323.31,240.13,3TEL
 2025-11-01T19:05:22Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.68,0.12,518.27,693.09,3TEL
+2025-11-01T19:10:27Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.64,0.18,595.67,691.27,3TEL
