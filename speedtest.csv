@@ -2353,3 +2353,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-01T07:18:29Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.78,0.55,690.58,300.39,Vivo
 2025-11-01T07:24:35Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.74,0.75,537.23,239.98,Vivo
 2025-11-01T07:30:29Z,eth1,192.168.50.52,189.78.125.232,40465,Vtal - São Paulo,2.71,0.4,653.53,233.43,Vivo
+2025-11-01T07:36:29Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.5,0.54,690.69,305.27,Vivo
