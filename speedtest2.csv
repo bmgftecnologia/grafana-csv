@@ -3059,3 +3059,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-02T05:50:19Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,3.83,0.18,596.23,695.46,3TEL
 2025-11-02T05:55:19Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,3.82,0.11,641.62,694.86,3TEL
 2025-11-02T06:00:24Z,eth0,192.168.8.11,138.97.240.197,39792,SpedyNet - Diadema,3.93,0.1,450.54,694.14,3TEL
+2025-11-02T06:05:13Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,3.69,0.12,845.23,695.56,3TEL
