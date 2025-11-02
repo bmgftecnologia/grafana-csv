@@ -3085,3 +3085,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-02T08:05:18Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.51,0.08,602.82,699.19,3TEL
 2025-11-02T08:10:16Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.55,0.09,639.62,700.76,3TEL
 2025-11-02T08:15:19Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.48,0.23,672.46,696.39,3TEL
+2025-11-02T08:20:16Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,3.9,0.29,630.67,670.45,3TEL
