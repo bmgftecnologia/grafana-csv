@@ -3165,3 +3165,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-02T14:45:26Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,4.09,0.12,905.05,628.55,3TEL
 2025-11-02T14:50:28Z,eth0,192.168.8.11,138.97.240.197,21107,CLICK & NAVEGUE - Diadema,3.86,0.19,673.24,639.56,3TEL
 2025-11-02T14:55:25Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,4.04,0.69,568.85,628.74,3TEL
+2025-11-02T15:00:37Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,6.09,0.2,339.29,280.28,3TEL
