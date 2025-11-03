@@ -3495,3 +3495,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-03T18:20:35Z,eth0,192.168.8.11,138.97.240.197,47219,CTI - Diadema,4.76,1.11,433.36,296.87,3TEL
 2025-11-03T18:25:20Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.62,0.15,656.65,693.07,3TEL
 2025-11-03T18:30:27Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,7.64,0.38,539.51,696.0,3TEL
+2025-11-03T18:35:16Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.45,0.14,657.89,679.71,3TEL
