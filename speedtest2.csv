@@ -3382,3 +3382,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-03T08:55:23Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.48,0.08,663.9,703.56,3TEL
 2025-11-03T09:00:26Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.68,0.19,458.0,279.16,3TEL
 2025-11-03T09:05:23Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,3.76,0.17,670.83,683.75,3TEL
+2025-11-03T09:10:21Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.67,0.08,578.99,680.7,3TEL
