@@ -3078,3 +3078,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-04T08:48:29Z,eth1,192.168.50.52,189.78.125.232,40465,Vtal - São Paulo,2.79,0.12,690.7,303.68,Vivo
 2025-11-04T08:54:21Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.79,0.11,862.7,310.51,Vivo
 2025-11-04T09:00:32Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.79,0.14,292.68,230.27,Vivo
+2025-11-04T09:06:28Z,eth1,192.168.50.52,189.78.125.232,28443,Algar Telecom - São Paulo,3.16,0.42,689.3,305.07,Vivo
