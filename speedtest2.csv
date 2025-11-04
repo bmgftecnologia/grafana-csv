@@ -3807,3 +3807,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-04T20:20:23Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,4.12,0.33,787.63,629.44,3TEL
 2025-11-04T20:25:17Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,4.02,0.51,624.41,643.16,3TEL
 2025-11-04T20:30:24Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.74,0.23,409.88,642.67,3TEL
+2025-11-04T20:35:25Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.71,0.05,629.74,649.2,3TEL
