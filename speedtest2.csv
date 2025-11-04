@@ -3825,3 +3825,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-04T21:50:19Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.51,0.1,599.63,671.29,3TEL
 2025-11-04T21:55:22Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,3.94,0.25,622.67,669.82,3TEL
 2025-11-04T22:00:33Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,4.04,0.1,264.02,573.96,3TEL
+2025-11-04T22:05:14Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.46,0.06,625.12,668.48,3TEL
