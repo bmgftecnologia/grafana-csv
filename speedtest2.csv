@@ -4078,3 +4078,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-05T19:00:31Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,5.33,0.36,404.44,62.21,3TEL
 2025-11-05T19:05:23Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,3.74,0.1,615.01,674.32,3TEL
 2025-11-05T19:10:33Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.65,0.2,602.37,637.26,3TEL
+2025-11-05T19:15:16Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.65,0.21,621.18,661.87,3TEL
