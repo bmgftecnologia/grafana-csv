@@ -3893,3 +3893,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-05T03:30:26Z,eth0,192.168.8.11,138.97.240.197,39792,SpedyNet - Diadema,3.87,0.16,316.52,630.31,3TEL
 2025-11-05T03:35:14Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.54,0.23,623.55,670.94,3TEL
 2025-11-05T03:40:16Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,3.76,0.09,759.05,672.31,3TEL
+2025-11-05T03:45:22Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.59,0.23,601.12,671.39,3TEL
