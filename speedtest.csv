@@ -3239,3 +3239,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-05T01:00:33Z,eth1,192.168.50.52,189.78.125.232,40465,Vtal - São Paulo,3.31,0.96,706.61,328.54,Vivo
 2025-11-05T01:06:28Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.74,0.15,665.97,301.95,Vivo
 2025-11-05T01:12:29Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.75,0.17,686.73,304.14,Vivo
+2025-11-05T01:18:30Z,eth1,192.168.50.52,189.78.125.232,29666,EdgeUno - São Paulo,2.8,0.14,679.7,302.35,Vivo
