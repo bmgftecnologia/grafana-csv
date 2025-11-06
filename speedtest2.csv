@@ -4305,3 +4305,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-06T14:00:29Z,eth0,192.168.8.11,138.97.240.197,43094,Nossanet Fibra - São Paulo,13.48,1.06,183.57,676.77,3TEL
 2025-11-06T14:05:13Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.47,0.05,574.82,670.36,3TEL
 2025-11-06T14:10:13Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,3.54,0.25,785.53,666.09,3TEL
+2025-11-06T14:15:28Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,3.97,0.12,798.64,669.55,3TEL
