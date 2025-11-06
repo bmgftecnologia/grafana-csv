@@ -3494,3 +3494,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-06T02:30:25Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.79,0.13,464.9,165.67,Vivo
 2025-11-06T02:36:27Z,eth1,192.168.50.52,189.78.125.232,28443,Algar Telecom - São Paulo,2.74,0.42,686.99,301.28,Vivo
 2025-11-06T02:42:21Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.51,0.17,850.16,314.95,Vivo
+2025-11-06T02:48:30Z,eth1,192.168.50.52,189.78.125.232,28443,Algar Telecom - São Paulo,2.77,0.24,687.47,258.31,Vivo
