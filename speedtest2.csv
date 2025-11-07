@@ -4672,3 +4672,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-07T20:40:21Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,4.06,0.07,886.99,670.74,3TEL
 2025-11-07T20:45:14Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,3.91,0.09,645.1,680.1,3TEL
 2025-11-07T20:50:18Z,eth0,192.168.8.11,138.97.240.197,39792,SpedyNet - Diadema,3.8,0.16,425.71,606.95,3TEL
+2025-11-07T20:55:25Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.64,0.19,631.66,622.9,3TEL
