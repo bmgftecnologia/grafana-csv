@@ -5405,3 +5405,4 @@ timestamp,host,iphost,status,sts,fping,cputem,memuse,menper,ipext,isprv,uptime,c
 2025-11-07T13:06:04Z,raspdeb12speedcsv,192.168.8.11,1,online,4.01,45.7,0.24,8.4,138.97.240.197,3TEL,6 days,13.7
 2025-11-07T13:08:17Z,raspdeb12speedcsv,192.168.8.11,1,online,3.23,44.8,0.22,8.0,138.97.240.197,3TEL,6 days,0.5
 2025-11-07T13:10:04Z,raspdeb12speedcsv,192.168.8.11,1,online,3.33,45.7,0.24,8.5,138.97.240.197,3TEL,6 days,34.3
+2025-11-07T13:12:05Z,raspdeb12speedcsv,192.168.8.11,1,online,3.33,46.2,0.25,8.9,138.97.240.197,3TEL,6 days,9.9
