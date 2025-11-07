@@ -3806,3 +3806,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-07T09:42:21Z,eth1,192.168.50.52,189.78.125.232,29666,EdgeUno - São Paulo,2.76,0.18,842.14,303.58,Vivo
 2025-11-07T09:48:29Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.77,0.15,687.44,305.81,Vivo
 2025-11-07T09:54:29Z,eth1,192.168.50.52,189.78.125.232,36386,TIM Brasil - São Paulo,3.78,0.71,686.01,303.56,Vivo
+2025-11-07T10:00:33Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.74,0.42,553.32,349.99,Vivo
