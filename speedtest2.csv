@@ -4630,3 +4630,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-07T17:10:21Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.71,0.67,622.69,640.76,3TEL
 2025-11-07T17:15:19Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.58,0.08,637.62,678.65,3TEL
 2025-11-07T17:20:20Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.48,0.06,601.85,678.77,3TEL
+2025-11-07T17:25:18Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,3.89,0.23,579.11,680.12,3TEL
