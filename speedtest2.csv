@@ -4625,3 +4625,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-07T16:45:13Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.55,0.09,658.6,618.88,3TEL
 2025-11-07T16:50:14Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.55,0.15,633.78,676.22,3TEL
 2025-11-07T16:55:19Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.56,0.19,641.22,680.2,3TEL
+2025-11-07T17:00:36Z,eth0,192.168.8.11,138.97.240.197,47219,CTI - Diadema,5.79,0.45,469.92,21.3,3TEL
