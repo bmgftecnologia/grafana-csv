@@ -4508,3 +4508,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-07T07:00:33Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.5,0.03,438.1,259.92,3TEL
 2025-11-07T07:05:18Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.61,0.09,624.31,689.35,3TEL
 2025-11-07T07:10:13Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,3.64,0.18,827.49,663.63,3TEL
+2025-11-07T07:15:20Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.46,0.12,668.75,680.13,3TEL
