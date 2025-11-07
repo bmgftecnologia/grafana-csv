@@ -3901,3 +3901,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-07T19:12:29Z,eth1,192.168.50.52,189.78.125.232,29666,EdgeUno - São Paulo,4.03,0.65,691.42,303.21,Vivo
 2025-11-07T19:18:29Z,eth1,192.168.50.52,189.78.125.232,29666,EdgeUno - São Paulo,2.78,0.1,690.99,303.3,Vivo
 2025-11-07T19:24:29Z,eth1,192.168.50.52,189.78.125.232,29666,EdgeUno - São Paulo,2.77,0.18,691.68,303.93,Vivo
+2025-11-07T19:30:32Z,eth1,192.168.50.52,189.78.125.232,29666,EdgeUno - São Paulo,2.79,0.09,536.77,152.33,Vivo
