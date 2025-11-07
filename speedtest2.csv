@@ -4429,3 +4429,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-07T00:25:21Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.52,0.11,606.87,619.84,3TEL
 2025-11-07T00:30:28Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,4.21,0.19,442.22,612.49,3TEL
 2025-11-07T00:35:17Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.56,0.12,639.76,608.25,3TEL
+2025-11-07T00:40:24Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.57,0.23,575.75,666.73,3TEL
