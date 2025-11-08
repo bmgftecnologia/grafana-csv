@@ -4943,3 +4943,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-08T19:30:23Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,4.06,0.3,244.19,649.32,3TEL
 2025-11-08T19:35:17Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.48,0.13,635.28,627.59,3TEL
 2025-11-08T19:40:29Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,3.98,0.32,625.93,644.53,3TEL
+2025-11-08T19:45:28Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,4.33,0.3,877.95,634.83,3TEL
