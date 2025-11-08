@@ -4045,3 +4045,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-08T09:42:29Z,eth1,192.168.50.52,189.78.125.232,29666,EdgeUno - São Paulo,3.73,1.19,681.2,303.21,Vivo
 2025-11-08T09:48:29Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.75,0.18,686.05,303.72,Vivo
 2025-11-08T09:54:29Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.81,0.08,685.48,316.37,Vivo
+2025-11-08T10:00:35Z,eth1,192.168.50.52,189.78.125.232,29666,EdgeUno - São Paulo,2.78,0.42,598.72,333.64,Vivo
