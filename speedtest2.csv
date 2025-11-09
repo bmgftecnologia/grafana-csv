@@ -5134,3 +5134,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-09T11:30:24Z,eth0,192.168.8.11,138.97.240.197,44965,Interativa Internet Telecom - São Paulo,12.87,0.62,538.48,672.06,3TEL
 2025-11-09T11:35:29Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,4.0,1.03,614.98,660.04,3TEL
 2025-11-09T11:40:20Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.48,0.22,640.68,670.32,3TEL
+2025-11-09T11:45:19Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,3.71,0.04,625.35,652.3,3TEL
