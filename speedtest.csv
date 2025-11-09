@@ -4308,3 +4308,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-09T12:00:34Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.8,0.16,205.98,218.29,Vivo
 2025-11-09T12:06:22Z,eth1,192.168.50.52,189.78.125.232,40465,Vtal - São Paulo,2.8,0.17,838.37,303.69,Vivo
 2025-11-09T12:12:31Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.86,0.13,701.45,306.1,Vivo
+2025-11-09T12:18:29Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.77,0.56,683.75,306.7,Vivo
