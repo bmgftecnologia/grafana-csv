@@ -5423,3 +5423,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-10T11:40:20Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,3.71,0.12,571.78,666.98,3TEL
 2025-11-10T11:45:17Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.48,0.02,600.37,674.33,3TEL
 2025-11-10T11:50:20Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.48,0.15,615.62,678.23,3TEL
+2025-11-10T11:55:20Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.47,0.1,629.61,675.98,3TEL
