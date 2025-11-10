@@ -4528,3 +4528,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-10T10:06:30Z,eth1,192.168.50.52,189.78.125.232,36386,TIM Brasil - São Paulo,2.78,0.17,699.93,307.41,Vivo
 2025-11-10T10:12:29Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.63,0.25,695.11,306.88,Vivo
 2025-11-10T10:18:31Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.75,0.15,694.16,307.68,Vivo
+2025-11-10T10:24:29Z,eth1,192.168.50.52,189.78.125.232,30306,Grupo GTD - São Paulo,2.85,0.19,692.08,303.5,Vivo
