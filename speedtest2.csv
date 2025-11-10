@@ -5543,3 +5543,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-10T21:40:25Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,4.17,0.17,623.34,664.44,3TEL
 2025-11-10T21:45:22Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.8,0.19,568.97,668.33,3TEL
 2025-11-10T21:50:21Z,eth0,192.168.8.11,138.97.240.197,39792,SpedyNet - Diadema,4.12,0.42,499.48,661.05,3TEL
+2025-11-10T21:55:24Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,3.62,0.7,677.76,635.65,3TEL
