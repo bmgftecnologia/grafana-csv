@@ -5484,3 +5484,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-10T16:45:17Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.5,0.05,654.03,663.65,3TEL
 2025-11-10T16:50:19Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.76,0.18,621.36,678.71,3TEL
 2025-11-10T16:55:19Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.54,0.21,607.67,659.72,3TEL
+2025-11-10T17:00:35Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,13.56,0.56,542.65,634.4,3TEL
