@@ -5785,3 +5785,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-11T17:55:21Z,eth0,192.168.8.11,138.97.240.197,44965,Interativa Internet Telecom - São Paulo,3.72,0.2,31.59,678.41,3TEL
 2025-11-11T18:00:37Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,14.01,57.05,11.23,126.75,3TEL
 2025-11-11T18:05:20Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.48,0.13,24.26,671.87,3TEL
+2025-11-11T18:10:26Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.75,0.31,19.62,675.31,3TEL
