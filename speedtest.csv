@@ -4840,3 +4840,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-11T17:24:30Z,eth1,192.168.50.52,177.112.229.83,30306,Grupo GTD - São Paulo,2.36,0.24,692.78,303.66,Vivo
 2025-11-11T17:30:32Z,eth1,192.168.50.52,177.112.229.83,30306,Grupo GTD - São Paulo,2.39,0.69,571.18,169.76,Vivo
 2025-11-11T17:36:23Z,eth1,192.168.50.52,177.112.229.83,40465,Vtal - São Paulo,2.92,0.5,848.16,305.94,Vivo
+2025-11-11T17:42:37Z,eth1,192.168.50.52,177.112.229.83,36386,TIM Brasil - São Paulo,3.73,0.63,682.72,311.18,Vivo
