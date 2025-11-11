@@ -5840,3 +5840,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-11T22:30:09Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,0.0,0.0,0.0,0.0,3TEL
 2025-11-11T22:35:39Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.84,0.31,1.05,589.97,3TEL
 2025-11-11T22:45:40Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,66.85,210.6,0.95,610.81,3TEL
+2025-11-11T22:50:31Z,eth0,192.168.8.11,138.97.240.197,43094,Nossanet Fibra - São Paulo,3.74,105.96,1.17,639.58,3TEL
