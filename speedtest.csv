@@ -4710,3 +4710,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-11T04:24:28Z,eth1,192.168.50.52,177.112.229.83,30306,Grupo GTD - São Paulo,2.75,0.33,688.89,307.95,Vivo
 2025-11-11T04:30:36Z,eth1,192.168.50.52,177.112.229.83,16322,Claro Net Vírtua - SPO - São Paulo,3.27,0.72,498.52,268.06,Vivo
 2025-11-11T04:36:36Z,eth1,192.168.50.52,177.112.229.83,40465,Vtal - São Paulo,2.6,0.47,682.81,334.41,Vivo
+2025-11-11T04:42:29Z,eth1,192.168.50.52,177.112.229.83,40465,Vtal - São Paulo,2.87,0.6,675.26,309.28,Vivo
