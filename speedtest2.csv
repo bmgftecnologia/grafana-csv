@@ -5600,3 +5600,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-11T02:25:18Z,eth0,192.168.8.11,138.97.240.197,43094,Nossanet Fibra - São Paulo,4.74,0.91,410.19,635.92,3TEL
 2025-11-11T02:30:26Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,31.57,1.3,597.54,587.08,3TEL
 2025-11-11T02:35:30Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.74,0.73,630.83,596.53,3TEL
+2025-11-11T02:40:19Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.64,0.21,622.25,669.88,3TEL
