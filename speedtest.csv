@@ -4828,3 +4828,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-11T16:12:30Z,eth1,192.168.50.52,177.112.229.83,30306,Grupo GTD - São Paulo,2.78,0.23,691.01,304.79,Vivo
 2025-11-11T16:18:28Z,eth1,192.168.50.52,177.112.229.83,30306,Grupo GTD - São Paulo,2.71,0.35,691.34,313.88,Vivo
 2025-11-11T16:24:29Z,eth1,192.168.50.52,177.112.229.83,30306,Grupo GTD - São Paulo,2.83,0.08,699.89,311.73,Vivo
+2025-11-11T16:30:32Z,eth1,192.168.50.52,177.112.229.83,40465,Vtal - São Paulo,2.8,0.36,704.33,298.48,Vivo
