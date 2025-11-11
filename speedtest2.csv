@@ -5849,3 +5849,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-11T23:20:46Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,4.08,106.07,1.04,662.72,3TEL
 2025-11-11T23:25:36Z,eth0,192.168.8.11,138.97.240.197,43094,Nossanet Fibra - São Paulo,4.47,52.11,0.89,661.54,3TEL
 2025-11-11T23:30:35Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,301.42,281.41,0.82,668.0,3TEL
+2025-11-11T23:35:10Z,eth0,192.168.8.11,138.97.240.197,43094,Nossanet Fibra - São Paulo,0.0,0.0,0.0,0.0,3TEL
