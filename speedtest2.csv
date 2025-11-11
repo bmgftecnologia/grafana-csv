@@ -5793,3 +5793,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-11T18:35:25Z,eth0,192.168.8.11,138.97.240.197,43094,Nossanet Fibra - São Paulo,3.95,0.04,13.89,676.11,3TEL
 2025-11-11T18:40:34Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.73,0.15,16.97,669.2,3TEL
 2025-11-11T18:45:25Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.48,0.04,13.53,662.25,3TEL
+2025-11-11T18:50:29Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.57,0.12,8.0,669.17,3TEL
