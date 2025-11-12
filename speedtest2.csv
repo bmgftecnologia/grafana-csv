@@ -6115,3 +6115,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-12T21:45:23Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.6,0.31,591.77,674.81,3TEL
 2025-11-12T21:50:20Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.59,0.32,635.46,683.96,3TEL
 2025-11-12T21:55:14Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.46,0.11,626.41,661.24,3TEL
+2025-11-12T22:00:33Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,3.93,0.23,279.15,488.7,3TEL
