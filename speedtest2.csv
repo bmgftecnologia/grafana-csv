@@ -5874,3 +5874,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-12T01:30:24Z,eth0,192.168.8.11,138.97.240.197,43094,Nossanet Fibra - São Paulo,8.95,0.21,2.6,667.9,3TEL
 2025-11-12T01:35:27Z,eth0,192.168.8.11,138.97.240.197,43094,Nossanet Fibra - São Paulo,4.41,0.15,2.87,637.19,3TEL
 2025-11-12T01:40:34Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,3.95,0.11,3.68,676.1,3TEL
+2025-11-12T01:45:31Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,217.39,160.47,3.22,675.15,3TEL
