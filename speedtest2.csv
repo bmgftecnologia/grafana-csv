@@ -5966,3 +5966,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-12T09:20:19Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.72,0.07,585.64,668.19,3TEL
 2025-11-12T09:25:15Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.46,0.18,659.63,674.38,3TEL
 2025-11-12T09:30:26Z,eth0,192.168.8.11,138.97.240.197,43094,Nossanet Fibra - São Paulo,38.88,2.09,189.26,677.05,3TEL
+2025-11-12T09:35:17Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,3.89,0.1,906.21,689.31,3TEL
