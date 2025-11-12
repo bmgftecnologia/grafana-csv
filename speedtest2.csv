@@ -5991,3 +5991,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-12T11:25:20Z,eth0,192.168.8.11,138.97.240.197,27527,FIX FIBRA - Diadema,3.7,0.1,884.63,663.05,3TEL
 2025-11-12T11:30:23Z,eth0,192.168.8.11,138.97.240.197,27527,FIX FIBRA - Diadema,3.65,0.14,419.8,657.27,3TEL
 2025-11-12T11:35:23Z,eth0,192.168.8.11,138.97.240.197,43094,Nossanet Fibra - São Paulo,4.92,0.93,481.78,654.37,3TEL
+2025-11-12T11:40:21Z,eth0,192.168.8.11,138.97.240.197,44965,Interativa Internet Telecom - São Paulo,3.98,0.13,599.11,674.92,3TEL
