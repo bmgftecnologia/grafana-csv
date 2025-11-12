@@ -6070,3 +6070,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-12T18:00:24Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.51,0.16,354.42,370.38,3TEL
 2025-11-12T18:05:22Z,eth0,192.168.8.11,138.97.240.197,39792,SpedyNet - Diadema,4.34,0.16,457.08,656.74,3TEL
 2025-11-12T18:10:22Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.79,0.09,597.7,666.43,3TEL
+2025-11-12T18:15:20Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,3.89,0.31,572.58,675.28,3TEL
