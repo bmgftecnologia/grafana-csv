@@ -6060,3 +6060,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-12T17:10:19Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.52,0.14,646.08,664.87,3TEL
 2025-11-12T17:15:17Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.58,0.15,639.23,652.28,3TEL
 2025-11-12T17:20:22Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,3.7,0.1,657.67,647.02,3TEL
+2025-11-12T17:25:17Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.54,0.09,682.14,671.35,3TEL
