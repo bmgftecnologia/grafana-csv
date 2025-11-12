@@ -5050,3 +5050,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-12T14:36:29Z,eth1,192.168.50.52,177.112.229.83,40465,Vtal - São Paulo,2.82,0.67,691.02,303.41,Vivo
 2025-11-12T14:42:30Z,eth1,192.168.50.52,177.112.229.83,16322,Claro Net Vírtua - SPO - São Paulo,2.72,0.2,697.39,306.5,Vivo
 2025-11-12T14:48:30Z,eth1,192.168.50.52,177.112.229.83,30306,Grupo GTD - São Paulo,2.62,0.24,699.67,305.31,Vivo
+2025-11-12T14:54:30Z,eth1,192.168.50.52,177.112.229.83,40465,Vtal - São Paulo,2.79,0.42,690.96,303.25,Vivo
