@@ -6118,3 +6118,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-12T22:00:33Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,3.93,0.23,279.15,488.7,3TEL
 2025-11-12T22:05:15Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.53,0.31,643.49,642.0,3TEL
 2025-11-12T22:10:22Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.6,0.23,623.5,647.5,3TEL
+2025-11-12T22:15:19Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.84,0.74,585.15,641.75,3TEL
