@@ -4910,3 +4910,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-12T00:30:25Z,eth1,192.168.50.52,177.112.229.83,30306,Grupo GTD - São Paulo,2.87,0.78,856.54,309.03,Vivo
 2025-11-12T00:36:32Z,eth1,192.168.50.52,177.112.229.83,30306,Grupo GTD - São Paulo,2.84,0.61,661.54,346.42,Vivo
 2025-11-12T00:42:31Z,eth1,192.168.50.52,177.112.229.83,40465,Vtal - São Paulo,2.71,0.3,649.18,298.54,Vivo
+2025-11-12T00:48:29Z,eth1,192.168.50.52,177.112.229.83,30306,Grupo GTD - São Paulo,2.76,0.37,686.9,311.31,Vivo
