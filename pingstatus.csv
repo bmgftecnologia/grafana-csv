@@ -9140,3 +9140,4 @@ timestamp,host,iphost,status,sts,fping,cputem,memuse,menper,ipext,isprv,uptime,c
 2025-11-12T18:20:03Z,raspdeb12speedcsv,192.168.50.52,1,online,5.14,45.7,0.24,8.4,177.112.229.83,Vivo,11 days,30.3
 2025-11-12T18:22:03Z,raspdeb12speedcsv,192.168.50.52,1,online,4.86,43.8,0.22,8.1,177.112.229.83,Vivo,11 days,2.1
 2025-11-12T18:24:03Z,raspdeb12speedcsv,192.168.50.52,1,online,4.96,45.2,0.25,8.8,177.112.229.83,Vivo,11 days,14.7
+2025-11-12T18:26:04Z,raspdeb12speedcsv,192.168.50.52,1,online,4.85,44.8,0.22,7.9,177.112.229.83,Vivo,11 days,1.0
