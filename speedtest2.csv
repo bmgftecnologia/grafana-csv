@@ -5905,3 +5905,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-12T04:10:22Z,eth0,192.168.8.11,138.97.240.197,43094,Nossanet Fibra - São Paulo,5.91,0.23,114.47,671.41,3TEL
 2025-11-12T04:15:22Z,eth0,192.168.8.11,138.97.240.197,43094,Nossanet Fibra - São Paulo,5.26,0.19,150.07,675.03,3TEL
 2025-11-12T04:20:20Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,5.48,0.23,144.63,672.18,3TEL
+2025-11-12T04:25:22Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,5.78,0.1,138.83,657.77,3TEL
