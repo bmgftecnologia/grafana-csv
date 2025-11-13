@@ -6370,3 +6370,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-13T19:05:15Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,3.85,0.14,723.83,676.5,3TEL
 2025-11-13T19:10:18Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.43,0.08,620.62,674.48,3TEL
 2025-11-13T19:15:26Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.7,0.11,662.34,674.93,3TEL
+2025-11-13T19:20:24Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,3.91,0.18,608.38,678.56,3TEL
