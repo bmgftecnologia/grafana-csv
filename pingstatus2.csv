@@ -9945,3 +9945,4 @@ timestamp,host,iphost,status,sts,fping,cputem,memuse,menper,ipext,isprv,uptime,c
 2025-11-13T21:28:03Z,raspdeb12speedcsv,192.168.8.11,1,online,3.55,44.3,0.21,7.8,138.97.240.197,3TEL,12 days,1.5
 2025-11-13T21:30:06Z,raspdeb12speedcsv,192.168.8.11,1,online,3.55,45.7,0.26,9.1,138.97.240.197,3TEL,12 days,31.1
 2025-11-13T21:32:04Z,raspdeb12speedcsv,192.168.8.11,1,online,3.36,45.2,0.22,7.9,138.97.240.197,3TEL,12 days,1.6
+2025-11-13T21:34:03Z,raspdeb12speedcsv,192.168.8.11,1,online,3.42,45.2,0.22,8.0,138.97.240.197,3TEL,12 days,1.4
