@@ -6557,3 +6557,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-14T10:40:17Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.49,0.14,621.16,664.54,3TEL
 2025-11-14T10:45:21Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.69,0.21,599.82,681.11,3TEL
 2025-11-14T10:50:26Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,3.8,0.2,802.0,685.47,3TEL
+2025-11-14T10:55:16Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,3.56,0.08,630.65,685.25,3TEL
