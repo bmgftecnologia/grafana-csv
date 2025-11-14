@@ -5583,3 +5583,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-14T20:06:29Z,eth1,192.168.50.52,177.112.229.83,29666,EdgeUno - São Paulo,2.84,0.54,691.22,303.89,Vivo
 2025-11-14T20:12:28Z,eth1,192.168.50.52,177.112.229.83,40465,Vtal - São Paulo,2.84,0.25,689.19,300.02,Vivo
 2025-11-14T20:18:29Z,eth1,192.168.50.52,177.112.229.83,36386,TIM Brasil - São Paulo,3.38,0.48,640.92,328.7,Vivo
+2025-11-14T20:24:29Z,eth1,192.168.50.52,177.112.229.83,64559,I-Systems - São Paulo,3.06,0.26,682.82,323.11,Vivo
