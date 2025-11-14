@@ -6583,3 +6583,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-14T12:50:19Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,3.81,0.08,691.98,667.47,3TEL
 2025-11-14T12:55:13Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.58,0.21,648.56,663.43,3TEL
 2025-11-14T13:00:39Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.97,0.64,505.31,91.33,3TEL
+2025-11-14T13:05:23Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.81,0.12,646.39,663.13,3TEL
