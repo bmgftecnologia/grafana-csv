@@ -5557,3 +5557,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-14T17:30:29Z,eth1,192.168.50.52,177.112.229.83,40465,Vtal - São Paulo,3.28,0.76,477.1,126.28,Vivo
 2025-11-14T17:36:29Z,eth1,192.168.50.52,177.112.229.83,30306,Grupo GTD - São Paulo,3.47,0.97,688.7,306.99,Vivo
 2025-11-14T17:42:29Z,eth1,192.168.50.52,177.112.229.83,30306,Grupo GTD - São Paulo,2.99,1.2,684.58,305.32,Vivo
+2025-11-14T17:48:28Z,eth1,192.168.50.52,177.112.229.83,36386,TIM Brasil - São Paulo,2.93,0.13,684.92,325.0,Vivo
