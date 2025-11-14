@@ -6445,3 +6445,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-14T01:20:22Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,3.83,0.27,605.7,654.14,3TEL
 2025-11-14T01:25:15Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,4.08,0.05,756.88,668.07,3TEL
 2025-11-14T01:30:24Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.68,0.09,348.7,660.74,3TEL
+2025-11-14T01:35:19Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.57,0.09,592.65,672.13,3TEL
