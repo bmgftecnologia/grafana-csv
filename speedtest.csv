@@ -5620,3 +5620,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-14T23:48:29Z,eth1,192.168.50.52,177.112.229.83,36386,TIM Brasil - São Paulo,3.54,1.1,686.25,316.68,Vivo
 2025-11-14T23:54:29Z,eth1,192.168.50.52,177.112.229.83,30306,Grupo GTD - São Paulo,2.89,0.19,684.68,302.79,Vivo
 2025-11-15T00:00:29Z,eth1,192.168.50.52,177.112.229.83,40465,Vtal - São Paulo,2.85,0.26,651.05,322.13,Vivo
+2025-11-15T00:06:31Z,eth1,192.168.50.52,177.112.229.83,30306,Grupo GTD - São Paulo,2.81,0.47,684.61,315.29,Vivo
