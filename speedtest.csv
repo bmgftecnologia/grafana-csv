@@ -5829,3 +5829,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-15T20:48:30Z,eth1,192.168.50.52,177.112.229.83,30306,Grupo GTD - São Paulo,2.83,0.26,699.61,313.34,Vivo
 2025-11-15T20:54:29Z,eth1,192.168.50.52,177.112.229.83,40465,Vtal - São Paulo,2.78,0.4,695.68,302.31,Vivo
 2025-11-15T21:00:31Z,eth1,192.168.50.52,177.112.229.83,30306,Grupo GTD - São Paulo,2.79,0.25,304.04,329.12,Vivo
+2025-11-15T21:06:29Z,eth1,192.168.50.52,177.112.229.83,30306,Grupo GTD - São Paulo,2.8,0.2,690.12,310.23,Vivo
