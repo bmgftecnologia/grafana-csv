@@ -6975,3 +6975,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-15T21:40:23Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.83,0.3,620.83,668.12,3TEL
 2025-11-15T21:45:24Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.62,0.12,615.33,614.63,3TEL
 2025-11-15T21:50:18Z,eth0,192.168.8.11,138.97.240.197,39792,SpedyNet - Diadema,4.5,104.98,447.44,616.43,3TEL
+2025-11-15T21:55:20Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.56,0.59,640.25,620.61,3TEL
