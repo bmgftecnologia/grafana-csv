@@ -6954,3 +6954,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-15T19:55:27Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.61,0.09,568.37,664.84,3TEL
 2025-11-15T20:00:33Z,eth0,192.168.8.11,138.97.240.197,39792,SpedyNet - Diadema,3.95,0.52,409.04,542.08,3TEL
 2025-11-15T20:05:20Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,4.02,0.1,864.94,670.09,3TEL
+2025-11-15T20:10:33Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,4.39,0.62,782.25,628.56,3TEL
