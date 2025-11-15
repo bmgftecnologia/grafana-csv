@@ -6858,3 +6858,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-15T11:55:22Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.51,0.05,627.24,674.16,3TEL
 2025-11-15T12:00:25Z,eth0,192.168.8.11,138.97.240.197,27527,FIX FIBRA - Diadema,12.5,0.64,617.19,676.41,3TEL
 2025-11-15T12:05:18Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.52,0.08,647.28,659.57,3TEL
+2025-11-15T12:10:17Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.55,0.26,624.2,667.37,3TEL
