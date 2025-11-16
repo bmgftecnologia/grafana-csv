@@ -7038,3 +7038,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-16T02:55:22Z,eth0,192.168.8.11,138.97.240.197,39792,SpedyNet - Diadema,3.93,0.19,553.77,673.12,3TEL
 2025-11-16T03:00:34Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.63,0.19,441.09,213.27,3TEL
 2025-11-16T03:05:26Z,eth0,192.168.8.11,138.97.240.197,47219,CTI - Diadema,3.98,0.06,482.53,592.97,3TEL
+2025-11-16T03:10:17Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.43,0.07,612.98,654.46,3TEL
