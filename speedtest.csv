@@ -5983,3 +5983,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-16T12:12:34Z,eth1,192.168.50.52,177.112.229.83,30306,Grupo GTD - São Paulo,2.59,0.52,687.89,305.88,Vivo
 2025-11-16T12:18:30Z,eth1,192.168.50.52,177.112.229.83,30306,Grupo GTD - São Paulo,2.8,0.9,696.39,308.75,Vivo
 2025-11-16T12:24:21Z,eth1,192.168.50.52,177.112.229.83,36386,TIM Brasil - São Paulo,4.39,0.34,843.45,312.2,Vivo
+2025-11-16T12:30:28Z,eth1,192.168.50.52,177.112.229.83,16322,Claro Net Vírtua - SPO - São Paulo,9.71,2.4,519.09,235.11,Vivo
