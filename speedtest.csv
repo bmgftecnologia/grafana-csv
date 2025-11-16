@@ -5925,3 +5925,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-16T06:24:29Z,eth1,192.168.50.52,177.112.229.83,40465,Vtal - São Paulo,3.0,0.64,688.76,306.55,Vivo
 2025-11-16T06:30:29Z,eth1,192.168.50.52,177.112.229.83,36386,TIM Brasil - São Paulo,4.32,0.63,612.0,204.22,Vivo
 2025-11-16T06:36:29Z,eth1,192.168.50.52,177.112.229.83,30306,Grupo GTD - São Paulo,2.87,0.12,689.59,309.19,Vivo
+2025-11-16T06:42:30Z,eth1,192.168.50.52,177.112.229.83,30306,Grupo GTD - São Paulo,3.27,0.26,691.24,306.69,Vivo
