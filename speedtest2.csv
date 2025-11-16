@@ -7155,3 +7155,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-16T12:45:20Z,eth0,192.168.8.11,138.97.240.197,39792,SpedyNet - Diadema,4.09,0.37,484.3,670.74,3TEL
 2025-11-16T12:50:18Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.95,0.24,607.38,672.89,3TEL
 2025-11-16T12:55:22Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.84,0.25,635.83,677.59,3TEL
+2025-11-16T13:00:29Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.45,0.14,391.72,176.44,3TEL
