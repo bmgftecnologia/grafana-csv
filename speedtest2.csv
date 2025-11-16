@@ -7121,3 +7121,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-16T09:55:26Z,eth0,192.168.8.11,138.97.240.197,39792,SpedyNet - Diadema,3.72,0.14,568.51,670.25,3TEL
 2025-11-16T10:00:28Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.62,0.19,304.85,271.54,3TEL
 2025-11-16T10:05:16Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,3.89,0.13,723.09,673.54,3TEL
+2025-11-16T10:10:17Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.5,0.03,553.46,675.51,3TEL
