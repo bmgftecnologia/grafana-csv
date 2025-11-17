@@ -6189,3 +6189,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-17T08:48:29Z,eth1,192.168.50.52,177.112.229.83,30306,Grupo GTD - São Paulo,2.87,0.2,693.97,305.84,Vivo
 2025-11-17T08:54:28Z,eth1,192.168.50.52,177.112.229.83,30306,Grupo GTD - São Paulo,2.78,0.34,684.8,307.98,Vivo
 2025-11-17T09:00:27Z,eth1,192.168.50.52,177.112.229.83,16322,Claro Net Vírtua - SPO - São Paulo,2.99,0.34,445.48,351.78,Vivo
+2025-11-17T09:06:29Z,eth1,192.168.50.52,177.112.229.83,36386,TIM Brasil - São Paulo,3.72,0.51,693.52,316.47,Vivo
