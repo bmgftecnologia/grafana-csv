@@ -7525,3 +7525,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-17T19:40:37Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,4.85,0.67,108.89,658.32,3TEL
 2025-11-17T19:45:26Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,14.49,69.8,83.76,671.15,3TEL
 2025-11-17T19:50:29Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,4.58,0.47,59.25,669.75,3TEL
+2025-11-17T19:55:26Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,4.87,5.04,112.6,684.88,3TEL
