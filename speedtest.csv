@@ -6318,3 +6318,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-17T22:06:24Z,eth1,192.168.50.52,177.112.229.83,40465,Vtal - São Paulo,3.26,0.26,776.35,306.62,Vivo
 2025-11-17T22:12:30Z,eth1,192.168.50.52,177.112.229.83,40465,Vtal - São Paulo,2.83,0.24,682.02,296.42,Vivo
 2025-11-17T22:18:34Z,eth1,192.168.50.52,177.112.229.83,40465,Vtal - São Paulo,2.98,0.87,685.06,309.48,Vivo
+2025-11-17T22:24:30Z,eth1,192.168.50.52,177.112.229.83,16322,Claro Net Vírtua - SPO - São Paulo,4.18,0.61,694.43,303.68,Vivo
