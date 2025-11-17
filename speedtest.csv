@@ -6139,3 +6139,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-17T03:48:21Z,eth1,192.168.50.52,177.112.229.83,30306,Grupo GTD - São Paulo,2.88,0.21,867.66,327.04,Vivo
 2025-11-17T03:54:28Z,eth1,192.168.50.52,177.112.229.83,40465,Vtal - São Paulo,2.91,0.2,669.83,320.75,Vivo
 2025-11-17T04:00:32Z,eth1,192.168.50.52,177.112.229.83,30306,Grupo GTD - São Paulo,2.91,0.61,648.84,322.6,Vivo
+2025-11-17T04:06:29Z,eth1,192.168.50.52,177.112.229.83,30306,Grupo GTD - São Paulo,2.86,0.98,689.82,313.72,Vivo
