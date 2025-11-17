@@ -7430,3 +7430,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-17T11:45:19Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.52,0.19,604.29,667.3,3TEL
 2025-11-17T11:50:21Z,eth0,192.168.8.11,138.97.240.197,44965,Interativa Internet Telecom - São Paulo,5.12,0.33,584.18,664.41,3TEL
 2025-11-17T11:55:22Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.52,0.21,602.77,556.01,3TEL
+2025-11-17T12:00:36Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,9.76,0.8,436.31,188.07,3TEL
