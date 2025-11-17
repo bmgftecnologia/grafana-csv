@@ -7322,3 +7322,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-17T02:40:26Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,4.15,0.24,576.54,677.09,3TEL
 2025-11-17T02:45:19Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.53,0.19,569.44,691.0,3TEL
 2025-11-17T02:50:21Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,3.91,0.39,861.94,660.54,3TEL
+2025-11-17T02:55:15Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.52,0.23,604.53,669.01,3TEL
