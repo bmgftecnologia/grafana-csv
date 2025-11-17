@@ -6328,3 +6328,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-17T23:18:31Z,eth1,192.168.50.52,187.75.99.254,40465,Vtal - São Paulo,4.36,0.66,698.01,306.12,Vivo
 2025-11-17T23:24:32Z,eth1,192.168.50.52,187.75.99.254,30306,Grupo GTD - São Paulo,2.64,0.37,693.22,308.15,Vivo
 2025-11-17T23:30:34Z,eth1,192.168.50.52,187.75.99.254,40465,Vtal - São Paulo,2.69,0.68,696.56,299.62,Vivo
+2025-11-17T23:36:34Z,eth1,192.168.50.52,187.75.99.254,16322,Claro Net Vírtua - SPO - São Paulo,3.17,0.69,690.98,304.61,Vivo
