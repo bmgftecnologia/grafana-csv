@@ -7488,3 +7488,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-17T16:35:24Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,4.28,1.36,395.11,656.84,3TEL
 2025-11-17T16:40:26Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,4.49,1.06,425.39,679.4,3TEL
 2025-11-17T16:45:27Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,3.72,0.86,670.2,680.74,3TEL
+2025-11-17T16:50:18Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,4.48,0.92,582.27,673.65,3TEL
