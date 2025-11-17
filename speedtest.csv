@@ -6226,3 +6226,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-17T12:30:20Z,eth1,192.168.50.52,177.112.229.83,40465,Vtal - São Paulo,3.55,0.33,588.72,145.94,Vivo
 2025-11-17T12:36:29Z,eth1,192.168.50.52,177.112.229.83,16322,Claro Net Vírtua - SPO - São Paulo,2.91,0.18,658.58,321.6,Vivo
 2025-11-17T12:42:28Z,eth1,192.168.50.52,177.112.229.83,40465,Vtal - São Paulo,2.95,0.52,690.11,316.93,Vivo
+2025-11-17T12:48:28Z,eth1,192.168.50.52,177.112.229.83,40465,Vtal - São Paulo,2.62,0.72,688.61,303.65,Vivo
