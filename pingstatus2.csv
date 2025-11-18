@@ -13238,3 +13238,4 @@ timestamp,host,iphost,status,sts,fping,cputem,memuse,menper,ipext,isprv,uptime,c
 2025-11-18T12:40:03Z,raspdeb12speedcsv,192.168.8.11,1,online,3.55,48.7,0.25,8.8,error code: 500,Provider name not found,17 days,15.7
 2025-11-18T12:42:04Z,raspdeb12speedcsv,192.168.8.11,1,online,8.84,50.1,0.27,9.5,error code: 500,Provider name not found,17 days,10.3
 2025-11-18T12:44:03Z,raspdeb12speedcsv,192.168.8.11,1,online,3.64,49.6,0.24,8.6,error code: 500,Provider name not found,17 days,1.4
+2025-11-18T12:46:05Z,raspdeb12speedcsv,192.168.8.11,1,online,3.54,48.7,0.24,8.6,error code: 500,Provider name not found,17 days,1.3
