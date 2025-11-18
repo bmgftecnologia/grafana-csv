@@ -6565,3 +6565,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-18T23:06:30Z,eth1,192.168.50.52,187.75.99.254,30306,Grupo GTD - São Paulo,2.54,0.2,693.31,303.16,Vivo
 2025-11-18T23:12:30Z,eth1,192.168.50.52,187.75.99.254,40465,Vtal - São Paulo,3.4,0.48,689.26,302.78,Vivo
 2025-11-18T23:18:30Z,eth1,192.168.50.52,187.75.99.254,30306,Grupo GTD - São Paulo,2.3,1.25,688.6,309.86,Vivo
+2025-11-18T23:24:29Z,eth1,192.168.50.52,187.75.99.254,40465,Vtal - São Paulo,2.9,0.21,689.81,306.17,Vivo
