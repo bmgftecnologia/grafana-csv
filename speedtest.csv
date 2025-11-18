@@ -6408,3 +6408,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-18T07:24:29Z,eth1,192.168.50.52,187.75.99.254,30306,Grupo GTD - São Paulo,2.7,0.39,685.76,305.34,Vivo
 2025-11-18T07:30:25Z,eth1,192.168.50.52,187.75.99.254,30306,Grupo GTD - São Paulo,2.86,0.45,369.49,128.12,Vivo
 2025-11-18T07:36:28Z,eth1,192.168.50.52,187.75.99.254,30306,Grupo GTD - São Paulo,2.6,0.38,693.27,306.9,Vivo
+2025-11-18T07:42:30Z,eth1,192.168.50.52,187.75.99.254,40465,Vtal - São Paulo,2.44,1.09,690.88,308.81,Vivo
