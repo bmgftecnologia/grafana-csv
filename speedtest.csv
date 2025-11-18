@@ -6520,3 +6520,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-18T18:36:29Z,eth1,192.168.50.52,187.75.99.254,40465,Vtal - São Paulo,2.87,0.29,690.82,305.92,Vivo
 2025-11-18T18:42:29Z,eth1,192.168.50.52,187.75.99.254,30306,Grupo GTD - São Paulo,2.8,0.61,685.53,306.49,Vivo
 2025-11-18T18:48:29Z,eth1,192.168.50.52,187.75.99.254,30306,Grupo GTD - São Paulo,2.83,0.24,690.54,304.39,Vivo
+2025-11-18T18:54:30Z,eth1,192.168.50.52,187.75.99.254,28443,Algar Telecom - São Paulo,15.31,12.49,688.83,306.18,Vivo
