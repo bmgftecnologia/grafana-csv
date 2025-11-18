@@ -6440,3 +6440,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-18T10:36:29Z,eth1,192.168.50.52,187.75.99.254,30306,Grupo GTD - São Paulo,2.64,0.55,690.19,303.9,Vivo
 2025-11-18T10:42:29Z,eth1,192.168.50.52,187.75.99.254,30306,Grupo GTD - São Paulo,2.86,0.74,690.93,306.41,Vivo
 2025-11-18T10:48:30Z,eth1,192.168.50.52,187.75.99.254,40465,Vtal - São Paulo,2.89,0.34,696.05,304.3,Vivo
+2025-11-18T10:54:29Z,eth1,192.168.50.52,187.75.99.254,16322,Claro Net Vírtua - SPO - São Paulo,3.1,1.25,697.97,306.85,Vivo
