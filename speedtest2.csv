@@ -7815,3 +7815,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-18T20:50:19Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.5,0.04,635.13,661.57,3TEL
 2025-11-18T20:55:17Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.49,0.13,654.65,657.7,3TEL
 2025-11-18T21:00:33Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,3.75,0.21,378.44,560.39,3TEL
+2025-11-18T21:05:15Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.53,0.14,647.26,670.67,3TEL
