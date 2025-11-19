@@ -8031,3 +8031,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-19T14:55:19Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.49,0.11,627.97,667.74,3TEL
 2025-11-19T15:00:33Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.61,0.13,409.64,147.73,3TEL
 2025-11-19T15:05:14Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,3.88,0.18,633.7,660.8,3TEL
+2025-11-19T15:10:18Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.48,0.13,618.6,668.34,3TEL
