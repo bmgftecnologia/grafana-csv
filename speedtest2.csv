@@ -8093,3 +8093,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-19T20:05:23Z,eth0,192.168.8.11,138.97.240.197,21107,CLICK & NAVEGUE - Diadema,3.83,0.09,650.25,648.14,3TEL
 2025-11-19T20:10:34Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,10.45,1.42,628.28,637.41,3TEL
 2025-11-19T20:15:15Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,3.94,0.34,619.4,670.0,3TEL
+2025-11-19T20:20:18Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.75,0.1,625.55,665.8,3TEL
