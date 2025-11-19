@@ -7860,3 +7860,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-19T00:35:18Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.66,0.38,610.29,671.7,3TEL
 2025-11-19T00:40:19Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.57,0.1,591.44,677.63,3TEL
 2025-11-19T00:45:21Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.58,0.13,628.43,669.21,3TEL
+2025-11-19T00:50:22Z,eth0,192.168.8.11,138.97.240.197,39792,SpedyNet - Diadema,3.99,0.27,590.3,575.33,3TEL
