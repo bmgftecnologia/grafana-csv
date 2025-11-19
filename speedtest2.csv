@@ -8040,3 +8040,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-19T15:40:18Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.53,0.11,653.27,662.27,3TEL
 2025-11-19T15:45:17Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.48,0.12,620.53,666.12,3TEL
 2025-11-19T15:50:14Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.5,0.08,630.53,661.65,3TEL
+2025-11-19T15:55:18Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.46,0.06,632.04,667.0,3TEL
