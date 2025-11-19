@@ -6655,3 +6655,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-19T08:12:30Z,eth1,192.168.50.52,187.75.99.254,36386,TIM Brasil - São Paulo,3.76,1.17,683.97,307.35,Vivo
 2025-11-19T08:18:29Z,eth1,192.168.50.52,187.75.99.254,40465,Vtal - São Paulo,2.7,0.5,688.69,312.97,Vivo
 2025-11-19T08:24:29Z,eth1,192.168.50.52,187.75.99.254,30306,Grupo GTD - São Paulo,2.68,0.47,691.39,303.51,Vivo
+2025-11-19T08:30:32Z,eth1,192.168.50.52,187.75.99.254,28443,Algar Telecom - São Paulo,6.06,1.7,621.95,153.54,Vivo
