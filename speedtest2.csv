@@ -8048,3 +8048,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-19T16:20:24Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.46,0.03,641.2,661.13,3TEL
 2025-11-19T16:25:22Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.84,0.34,613.37,671.4,3TEL
 2025-11-19T16:30:26Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,3.92,0.62,444.81,351.77,3TEL
+2025-11-19T16:35:13Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.5,0.08,616.21,665.36,3TEL
