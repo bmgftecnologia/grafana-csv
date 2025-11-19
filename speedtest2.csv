@@ -8085,3 +8085,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-19T19:25:17Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.47,0.25,622.19,671.91,3TEL
 2025-11-19T19:30:36Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.58,0.23,480.34,557.95,3TEL
 2025-11-19T19:35:19Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.61,0.17,630.45,617.86,3TEL
+2025-11-19T19:40:27Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,3.95,0.11,839.12,676.17,3TEL
