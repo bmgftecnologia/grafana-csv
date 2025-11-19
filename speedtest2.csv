@@ -8075,3 +8075,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-19T18:35:18Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.75,0.31,618.93,633.43,3TEL
 2025-11-19T18:40:26Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,3.96,0.16,854.51,646.65,3TEL
 2025-11-19T18:45:21Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.45,0.18,603.44,672.77,3TEL
+2025-11-19T18:50:22Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,3.96,0.15,879.15,660.57,3TEL
