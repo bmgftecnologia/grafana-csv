@@ -8067,3 +8067,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-19T17:55:28Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.66,0.17,611.31,615.47,3TEL
 2025-11-19T18:00:30Z,eth0,192.168.8.11,138.97.240.197,44965,Interativa Internet Telecom - São Paulo,12.23,1.15,385.97,664.29,3TEL
 2025-11-19T18:05:20Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.49,0.13,594.1,650.12,3TEL
+2025-11-19T18:10:24Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.6,0.16,485.36,671.01,3TEL
