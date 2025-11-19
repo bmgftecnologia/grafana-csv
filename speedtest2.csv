@@ -8069,3 +8069,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-19T18:05:20Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.49,0.13,594.1,650.12,3TEL
 2025-11-19T18:10:24Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.6,0.16,485.36,671.01,3TEL
 2025-11-19T18:15:15Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,3.8,0.15,580.06,646.27,3TEL
+2025-11-19T18:20:22Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,3.91,0.15,856.97,674.16,3TEL
