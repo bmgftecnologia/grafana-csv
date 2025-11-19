@@ -7905,3 +7905,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-19T04:20:31Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.73,0.11,624.42,685.05,3TEL
 2025-11-19T04:25:20Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.48,0.14,660.7,682.93,3TEL
 2025-11-19T04:30:27Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,3.88,0.2,501.6,645.39,3TEL
+2025-11-19T04:35:14Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.47,0.06,646.69,643.14,3TEL
