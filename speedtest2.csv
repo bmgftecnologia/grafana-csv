@@ -8211,3 +8211,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-20T06:15:25Z,eth0,192.168.8.11,138.97.240.197,47219,CTI - Diadema,4.09,0.17,565.93,369.06,3TEL
 2025-11-20T06:20:19Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.63,0.11,649.03,681.44,3TEL
 2025-11-20T06:25:16Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.43,0.1,647.41,683.35,3TEL
+2025-11-20T06:30:30Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.47,0.11,425.84,680.9,3TEL
