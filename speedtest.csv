@@ -6979,3 +6979,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-20T16:54:31Z,eth1,192.168.50.52,187.75.99.254,30306,Grupo GTD - São Paulo,3.17,0.75,675.21,302.4,Vivo
 2025-11-20T17:00:32Z,eth1,192.168.50.52,187.75.99.254,28443,Algar Telecom - São Paulo,3.98,2.68,521.52,318.2,Vivo
 2025-11-20T17:06:30Z,eth1,192.168.50.52,187.75.99.254,16322,Claro Net Vírtua - SPO - São Paulo,2.89,0.09,691.23,305.2,Vivo
+2025-11-20T17:12:28Z,eth1,192.168.50.52,187.75.99.254,28443,Algar Telecom - São Paulo,2.96,0.51,688.62,310.66,Vivo
