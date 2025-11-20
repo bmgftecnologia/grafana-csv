@@ -6948,3 +6948,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-20T13:30:33Z,eth1,192.168.50.52,187.75.99.254,36386,TIM Brasil - São Paulo,4.05,0.41,691.51,240.02,Vivo
 2025-11-20T13:36:30Z,eth1,192.168.50.52,187.75.99.254,28443,Algar Telecom - São Paulo,2.89,0.47,688.07,307.25,Vivo
 2025-11-20T13:42:29Z,eth1,192.168.50.52,187.75.99.254,28443,Algar Telecom - São Paulo,2.87,0.11,687.54,304.36,Vivo
+2025-11-20T13:48:29Z,eth1,192.168.50.52,187.75.99.254,30306,Grupo GTD - São Paulo,3.19,1.38,690.58,303.73,Vivo
