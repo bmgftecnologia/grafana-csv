@@ -6839,3 +6839,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-20T02:36:30Z,eth1,192.168.50.52,187.75.99.254,40465,Vtal - São Paulo,2.72,0.44,674.73,301.2,Vivo
 2025-11-20T02:42:21Z,eth1,192.168.50.52,187.75.99.254,36386,TIM Brasil - São Paulo,2.89,0.14,807.14,321.49,Vivo
 2025-11-20T02:48:29Z,eth1,192.168.50.52,187.75.99.254,30306,Grupo GTD - São Paulo,3.21,0.61,689.19,306.52,Vivo
+2025-11-20T02:54:28Z,eth1,192.168.50.52,187.75.99.254,30306,Grupo GTD - São Paulo,2.81,1.14,673.37,311.5,Vivo
