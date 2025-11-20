@@ -8308,3 +8308,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-20T14:20:24Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.93,0.32,224.55,677.19,3TEL
 2025-11-20T14:25:26Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.93,0.29,114.44,673.93,3TEL
 2025-11-20T14:30:33Z,eth0,192.168.8.11,138.97.240.197,47219,CTI - Diadema,4.39,0.24,50.97,41.62,3TEL
+2025-11-20T14:35:29Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,4.77,0.21,33.2,673.84,3TEL
