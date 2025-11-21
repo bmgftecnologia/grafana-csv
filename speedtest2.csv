@@ -8644,3 +8644,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-21T18:40:20Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.57,0.19,616.1,664.51,3TEL
 2025-11-21T18:45:16Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.49,0.04,632.2,652.28,3TEL
 2025-11-21T18:50:15Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.51,0.08,626.94,660.33,3TEL
+2025-11-21T18:55:30Z,eth0,192.168.8.11,138.97.240.197,47219,CTI - Diadema,4.04,0.41,587.79,412.65,3TEL
