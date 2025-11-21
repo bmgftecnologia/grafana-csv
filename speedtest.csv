@@ -7209,3 +7209,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-21T18:30:31Z,eth1,192.168.50.52,187.75.99.254,30306,Grupo GTD - São Paulo,2.98,0.48,416.3,336.19,Vivo
 2025-11-21T18:36:22Z,eth1,192.168.50.52,187.75.99.254,30306,Grupo GTD - São Paulo,2.9,0.45,843.99,305.98,Vivo
 2025-11-21T18:42:27Z,eth1,192.168.50.52,187.75.99.254,30306,Grupo GTD - São Paulo,2.97,0.07,674.23,303.86,Vivo
+2025-11-21T18:48:31Z,eth1,192.168.50.52,187.75.99.254,36386,TIM Brasil - São Paulo,2.95,0.26,703.06,325.8,Vivo
