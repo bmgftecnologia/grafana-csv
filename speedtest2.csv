@@ -8535,3 +8535,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-21T09:30:26Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,3.68,0.15,550.67,626.8,3TEL
 2025-11-21T09:35:15Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.49,0.05,618.02,655.75,3TEL
 2025-11-21T09:40:14Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.48,0.11,634.65,654.21,3TEL
+2025-11-21T09:45:22Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.47,0.06,601.0,655.77,3TEL
