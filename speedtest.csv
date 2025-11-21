@@ -7198,3 +7198,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-21T17:24:30Z,eth1,192.168.50.52,187.75.99.254,40465,Vtal - São Paulo,2.86,0.21,689.67,302.9,Vivo
 2025-11-21T17:30:31Z,eth1,192.168.50.52,187.75.99.254,30306,Grupo GTD - São Paulo,2.84,0.41,507.72,320.13,Vivo
 2025-11-21T17:36:22Z,eth1,192.168.50.52,187.75.99.254,30306,Grupo GTD - São Paulo,2.69,0.55,852.65,312.05,Vivo
+2025-11-21T17:42:21Z,eth1,192.168.50.52,187.75.99.254,30306,Grupo GTD - São Paulo,2.9,0.1,864.7,304.8,Vivo
