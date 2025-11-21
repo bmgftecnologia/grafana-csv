@@ -8528,3 +8528,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-21T08:55:17Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.48,0.07,646.33,670.95,3TEL
 2025-11-21T09:00:24Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,4.11,0.45,335.09,206.02,3TEL
 2025-11-21T09:05:17Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.46,0.16,642.3,658.84,3TEL
+2025-11-21T09:10:13Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,3.57,0.23,758.63,647.86,3TEL
