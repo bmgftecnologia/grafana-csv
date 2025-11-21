@@ -7035,3 +7035,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-21T01:06:28Z,eth1,192.168.50.52,187.75.99.254,30306,Grupo GTD - São Paulo,2.8,0.44,685.26,320.46,Vivo
 2025-11-21T01:12:21Z,eth1,192.168.50.52,187.75.99.254,30306,Grupo GTD - São Paulo,2.9,0.21,861.0,316.89,Vivo
 2025-11-21T01:18:32Z,eth1,192.168.50.52,187.75.99.254,40465,Vtal - São Paulo,3.06,0.82,685.12,306.18,Vivo
+2025-11-21T01:24:30Z,eth1,192.168.50.52,187.75.99.254,30306,Grupo GTD - São Paulo,3.17,0.23,686.09,307.64,Vivo
