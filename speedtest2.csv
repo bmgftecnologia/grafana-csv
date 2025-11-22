@@ -8855,3 +8855,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-22T12:15:20Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.66,0.28,617.48,685.38,3TEL
 2025-11-22T12:20:19Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.7,0.16,629.78,668.74,3TEL
 2025-11-22T12:25:19Z,eth0,192.168.8.11,138.97.240.197,52397,HBNets - São Paulo,3.81,0.16,587.73,672.9,3TEL
+2025-11-22T12:30:26Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.47,0.13,590.04,675.13,3TEL
