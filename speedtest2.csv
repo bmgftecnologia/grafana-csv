@@ -8773,3 +8773,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-22T05:25:22Z,eth0,192.168.8.11,138.97.240.197,62495,Velosch Telecom - Diadema,3.65,0.28,628.49,683.19,3TEL
 2025-11-22T05:30:24Z,eth0,192.168.8.11,138.97.240.197,39792,SpedyNet - Diadema,3.91,0.08,230.32,674.59,3TEL
 2025-11-22T05:35:16Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.42,0.05,642.79,674.86,3TEL
+2025-11-22T05:40:20Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.55,0.2,615.92,626.39,3TEL
