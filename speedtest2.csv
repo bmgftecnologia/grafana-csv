@@ -8828,3 +8828,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-22T10:00:26Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,4.06,0.93,602.05,490.42,3TEL
 2025-11-22T10:05:19Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.51,0.09,642.51,682.36,3TEL
 2025-11-22T10:10:14Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.55,0.23,624.17,685.88,3TEL
+2025-11-22T10:15:16Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.41,0.15,637.22,683.46,3TEL
