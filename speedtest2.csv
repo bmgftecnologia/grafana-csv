@@ -8812,3 +8812,4 @@ timestamp,iface,internal_ip,external_ip,server_id,server_name,ping_ms,jitter_ms,
 2025-11-22T08:40:20Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.87,0.28,613.02,690.61,3TEL
 2025-11-22T08:45:18Z,eth0,192.168.8.11,138.97.240.197,31133,FORÇA E AÇÃO TELECOM - Diadema,3.57,0.12,601.2,685.44,3TEL
 2025-11-22T08:50:14Z,eth0,192.168.8.11,138.97.240.197,63107,Global Web Telecom - Diadema,3.84,0.1,681.44,679.12,3TEL
+2025-11-22T08:55:18Z,eth0,192.168.8.11,138.97.240.197,27078,Mega Net Telecom Ltda - Diadema,3.47,0.14,614.23,689.11,3TEL
