@@ -3086,3 +3086,4 @@ timestamp,host,iphost,status,sts,fping,cputem,memuse,menper,ipext,isprv,uptime,c
 2025-12-23T23:32:05Z,raspdeb12speedcsv,192.168.70.3,1.0,Online,8.65,42.8,0.31,12.0,138.97.240.197,Sem Fone Telecomunicações Ltda,21:24,9.8
 2025-12-23T23:34:05Z,raspdeb12speedcsv,192.168.70.3,1.0,Online,4.62,40.4,0.27,11.0,138.97.240.197,Sem Fone Telecomunicações Ltda,21:26,0.4
 2025-12-23T23:36:05Z,raspdeb12speedcsv,192.168.70.3,1.0,Online,4.32,40.4,0.27,11.1,138.97.240.197,Sem Fone Telecomunicações Ltda,21:28,0.3
+2025-12-23T23:38:06Z,raspdeb12speedcsv,192.168.70.3,1.0,Online,4.51,38.9,0.27,11.1,138.97.240.197,Sem Fone Telecomunicações Ltda,21:30,0.3
