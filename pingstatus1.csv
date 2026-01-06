@@ -3829,3 +3829,4 @@ timestamp,host,iphost,status,sts,fping,cputem,memuse,menper,ipext,isprv,uptime,c
 2026-01-06T08:36:06Z,raspdeb12speedcsv,192.168.70.4,1.0,Online,4.29,41.3,0.27,11.2,138.97.240.197,3TEL,3 days,0.1
 2026-01-06T08:38:05Z,raspdeb12speedcsv,192.168.70.4,1.0,Online,3.84,40.9,0.27,11.1,138.97.240.197,3TEL,3 days,0.3
 2026-01-06T08:40:06Z,raspdeb12speedcsv,192.168.70.4,1.0,Online,12.1,43.3,0.34,13.0,138.97.240.197,3TEL,3 days,58.3
+2026-01-06T08:42:06Z,raspdeb12speedcsv,192.168.70.4,1.0,Online,4.12,41.3,0.27,11.1,138.97.240.197,3TEL,3 days,0.5
