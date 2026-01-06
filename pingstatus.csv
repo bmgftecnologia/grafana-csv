@@ -8005,3 +8005,4 @@ timestamp,host,iphost,status,sts,fping,cputem,memuse,menper,ipext,isprv,uptime,c
 2026-01-06T13:00:06Z,raspdeb12speedcsv,192.168.60.52,1.0,Online,12.5,43.3,0.36,13.2,177.170.161.87,VIVO,3 days,48.0
 2026-01-06T13:01:05Z,raspdeb12speedcsv,192.168.60.52,1.0,Online,5.10,42.3,0.26,10.7,177.170.161.87,VIVO,3 days,0.1
 2026-01-06T13:02:05Z,raspdeb12speedcsv,192.168.60.52,1.0,Online,3.43,42.3,0.28,11.1,177.170.161.87,VIVO,3 days,0.4
+2026-01-06T13:03:05Z,raspdeb12speedcsv,192.168.60.52,1.0,Online,7.37,42.3,0.26,10.5,177.170.161.87,VIVO,3 days,0.4
